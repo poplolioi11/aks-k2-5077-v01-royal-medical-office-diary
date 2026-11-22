@@ -12,9 +12,9 @@ The dataset indexes all 55 images of volume 001. Covers, body columns, marginal 
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。日期以影像所載文字為準。淡灰背印、界欄與黑墨正文分層。部分小字、印文和韓字留疑。
+逐幅回圖，比對獨立讀稿及原初錄，採用 42 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。日期以影像所載文字為準。淡灰背印、界欄與黑墨正文分層。部分小字、印文和韓字留疑。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Dates are recorded as written. Show-through, rulings and body writing are distinguished. Some small notes, seal readings and Korean text remain uncertain.
+Source-image review compared independent observations with the initial transcription and records 42 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Dates are recorded as written. Show-through, rulings and body writing are distinguished. Some small notes, seal readings and Korean text remain uncertain.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 

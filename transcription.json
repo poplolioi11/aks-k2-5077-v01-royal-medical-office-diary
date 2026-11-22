@@ -7,10 +7,10 @@
     "source": "https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-5077",
     "manifest": "https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-5077%7C001",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅回圖，比對獨立讀稿及原初錄，採用 42 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "Source-image review compared independent observations with the initial transcription and records 42 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -215,7 +215,7 @@
             {
               "id": "003r08",
               "role": "body",
-              "text": "今十⟦一／□⟧日以　哲仁王后忌辰自明日至十二日",
+              "text": "今十一日以　哲仁王后忌辰自明日至十二日",
               "language": "lzh"
             },
             {
@@ -661,7 +661,7 @@
             {
               "id": "005l02",
               "role": "body",
-              "text": "入診湯劑安心建理湯水刺後保和湯下午二点",
+              "text": "入診湯劑空心建理湯水刺後保和湯下午二点",
               "language": "lzh"
             },
             {
@@ -2231,7 +2231,7 @@
             {
               "id": "012l07",
               "role": "body",
-              "text": "診聖候安寧湯劑續進",
+              "text": "診聖候恭平自明日空心湯劑前方香砂君",
               "language": "lzh"
             },
             {
@@ -2386,7 +2386,7 @@
             {
               "id": "013r07",
               "role": "body",
-              "text": "塚徹以齒科所用刀刮去舊齒傷污穢三次連以水",
+              "text": "塚徹以齒科所用刀刮去舊齒傍污穢三次連以水",
               "language": "lzh",
               "small_notes": [
                 "R07–R08 近「水」旁細字「蓋剝棚炙水」〔候選〕"
@@ -2444,7 +2444,7 @@
               "text": "水刺後進御洋藥〔細字見旁注〕筧麻子",
               "language": "lzh",
               "small_notes": [
-                "L04–L05 夾小欄「自十一日所進者而茲錄藥名故今比記左／七月十□日午前進」〔單字與讀序待核〕"
+                "L04–L05 夾小欄「自十一日所進者而茲錄藥名故今比記左／七月十日午前進」〔單字與讀序待核〕"
               ]
             },
             {
@@ -2550,8 +2550,8 @@
             "013l04",
             "013l05"
           ],
-          "record": "L04–L05 夾小欄「自十一日所進者而茲錄藥名故今比記左／七月十□日午前進」〔單字與讀序待核〕",
-          "reading_status": "uncertain"
+          "record": "L04–L05 夾小欄「自十一日所進者而茲錄藥名故今比記左／七月十日午前進」〔單字與讀序待核〕",
+          "reading_status": "image-reviewed"
         }
       ],
       "hangul_records": [
@@ -2872,7 +2872,7 @@
             {
               "id": "015r05",
               "role": "body",
-              "text": "二十三日入直仍醫員金東錫上午八点三十分",
+              "text": "二十三日入直仍醫員金東錫上午八点四十",
               "language": "lzh",
               "small_notes": [
                 "R05 丁丑、晝而順、雨夜而大注〔小字待核〕"
@@ -3348,7 +3348,7 @@
             {
               "id": "017l01",
               "role": "body",
-              "text": "大皇帝陛下午後三点退出",
+              "text": "大皇帝陛下下午三点退出",
               "language": "lzh"
             },
             {
@@ -3366,7 +3366,7 @@
             {
               "id": "017l04",
               "role": "body",
-              "text": "七月初日卯朝雨午晴入直典醫長徐丙孝醫員李康年",
+              "text": "七月初一日甲申朝雨午晴入直典醫長徐丙孝醫員李康年",
               "language": "lzh",
               "small_notes": [
                 "L04「卯」側有小筆"
@@ -3827,7 +3827,7 @@
             {
               "id": "019l09",
               "role": "body",
-              "text": "皇后陛下諸節上氣腹部痛泄候等證一直無減",
+              "text": "皇后陛下諸節上氣肢節痛泄候等證一直無減",
               "language": "lzh"
             },
             {
@@ -3982,7 +3982,7 @@
             {
               "id": "020l02",
               "role": "body",
-              "text": "皇后陛下咯血症急煎一葉草五小盞進下午十",
+              "text": "皇后陛下咯血症急煎一葉草五分重進下午十",
               "language": "lzh",
               "small_notes": [
                 "L02「葉」旁小「草」"
@@ -4205,7 +4205,7 @@
               "text": "十六日己亥陽八月十二日曉下雨",
               "language": "lzh",
               "small_notes": [
-                "R09 欄上開國紀元節／以陽八月十四／日改定"
+                "R09 欄上開國紀元節／以陽八月廿四／日改定"
               ]
             },
             {
@@ -4236,7 +4236,7 @@
             {
               "id": "021l03",
               "role": "body",
-              "text": "治上左齒二本以養齒洋藥一琉璃瓶封上十一",
+              "text": "治上左齒二本以養齒洋藥一小琉璃瓶封上十一",
               "language": "lzh"
             },
             {
@@ -4301,8 +4301,8 @@
           "column_refs": [
             "021r09"
           ],
-          "record": "R09 欄上開國紀元節／以陽八月十四／日改定",
-          "reading_status": "initial"
+          "record": "R09 欄上開國紀元節／以陽八月廿四／日改定",
+          "reading_status": "image-reviewed"
         },
         {
           "column_refs": [
@@ -4574,7 +4574,7 @@
             {
               "id": "023r08",
               "role": "body",
-              "text": "削下左牙齒之周同十一点退出",
+              "text": "削下左牙齒之間同十一点退出",
               "language": "lzh"
             },
             {
@@ -4972,7 +4972,7 @@
             {
               "id": "025l03",
               "role": "body",
-              "text": "微滑腹部微痛于湯劑以平陳湯改定",
+              "text": "微滑腹部微痛午湯劑以平陳湯改定",
               "language": "lzh"
             },
             {
@@ -5197,7 +5197,7 @@
             {
               "id": "026l08",
               "role": "body",
-              "text": "同十一点半　醫視總監丸山重俊　陛見",
+              "text": "同十一点半　警視總監丸山重俊　陛見",
               "language": "lzh"
             },
             {
@@ -5245,7 +5245,7 @@
             {
               "id": "027r02",
               "role": "body",
-              "text": "典設長帶同待令",
+              "text": "典醫長帶同待令",
               "language": "lzh"
             },
             {
@@ -5263,7 +5263,7 @@
             {
               "id": "027r05",
               "role": "body",
-              "text": "設長帶同入侍",
+              "text": "醫長帶同入侍",
               "language": "lzh"
             },
             {
@@ -5275,7 +5275,7 @@
             {
               "id": "027r07",
               "role": "body",
-              "text": "入直朴準承金東錫下午三点　動駕于後苑⟦熙／徳⟧慶",
+              "text": "入直朴準承金東錫下午三点　動駕于後苑演慶",
               "language": "lzh"
             },
             {
@@ -5356,7 +5356,7 @@
             {
               "id": "027l09",
               "role": "body",
-              "text": "痛故加紫正氣散一貼頭痛快減",
+              "text": "痛故加味正氣散一貼頭痛快減",
               "language": "lzh"
             },
             {
@@ -5410,7 +5410,7 @@
             {
               "id": "028r04",
               "role": "body",
-              "text": "皇后陛下便度以泄四次腹中疼痛不順云故以養胃",
+              "text": "皇后陛下便度以泄四次腹中痞痛不順云故以養胃",
               "language": "lzh"
             },
             {
@@ -5428,7 +5428,7 @@
             {
               "id": "028r07",
               "role": "body",
-              "text": "太皇帝陛下下午三点半動駕後苑同五点還御",
+              "text": "大皇帝陛下下午三点半動駕後苑同五点還御",
               "language": "lzh"
             },
             {
@@ -5440,7 +5440,7 @@
             {
               "id": "028r09",
               "role": "body",
-              "text": "太皇帝陛下皇后陛下德壽宮動駕下午五時三十分",
+              "text": "大皇帝陛下皇后陛下德壽宮動駕下午五時三十分",
               "language": "lzh",
               "small_notes": [
                 "R09 欄上萬壽聖節"
@@ -5683,7 +5683,7 @@
             {
               "id": "029l05",
               "role": "body",
-              "text": "明成皇后忌辰衛日不遠栗米飮煎進事入稟",
+              "text": "明成皇后忌辰齋日不遠栗米飮煎進事入稟",
               "language": "lzh",
               "small_notes": [
                 "L05 下側三小列自十八日至二／十日三次〔二、十原分行〕"
@@ -5819,7 +5819,7 @@
             {
               "id": "030r05",
               "role": "body",
-              "text": "明成皇后忌辰衛日故也",
+              "text": "明成皇后忌辰齋日故也",
               "language": "lzh"
             },
             {
@@ -5889,7 +5889,7 @@
             {
               "id": "030l05",
               "role": "body",
-              "text": "太皇帝陛下皇后陛下臨御戴德堂望哭進粟米",
+              "text": "太皇帝陛下皇后陛下臨御載德堂望哭進粟米",
               "language": "lzh",
               "small_notes": [
                 "L05–L06 上方三小欄太皇帝陛下進／御粟米飮將事／後一次進上"
@@ -6076,7 +6076,7 @@
             {
               "id": "031l04",
               "role": "body",
-              "text": "皇后陛下空心湯劑進御後仍卽眩暈脅部有悶矣其",
+              "text": "皇后陛下空心湯劑進御後仍卽眩暈胸部有悶矣其",
               "language": "lzh"
             },
             {
@@ -6191,7 +6191,7 @@
             {
               "id": "032r03",
               "role": "body",
-              "text": "二十六日己卯陽九月二十一日上午九点五十分入診諸節泰平湯",
+              "text": "二十六日己卯陽九月二十一日上午九点二十五分入診諸節泰平湯",
               "language": "lzh"
             },
             {
@@ -6203,13 +6203,13 @@
             {
               "id": "032r05",
               "role": "body",
-              "text": "上午十一点與朴宗桓帶同齒醫飯塚徹入侍而前日",
+              "text": "上午十二点與朴宗桓帶同齒醫飯塚徹入侍而前日",
               "language": "lzh"
             },
             {
               "id": "032r06",
               "role": "body",
-              "text": "拔去齒痕腐姑未堅完只點藥水傳止磨削小頃",
+              "text": "拔去齒痕處姑未堅完只點藥水傳止磨削小頃",
               "language": "lzh"
             },
             {
@@ -6455,7 +6455,7 @@
             {
               "id": "033l06",
               "role": "body",
-              "text": "上午九点三十分入診諸節泰平湯劑復議定",
+              "text": "上午九点二十分入診諸節泰平湯劑復議定",
               "language": "lzh"
             },
             {
@@ -6470,7 +6470,7 @@
             {
               "id": "033l08",
               "role": "body",
-              "text": "四日丙戌陽九月廿八日上午九点三十分入診諸節泰平",
+              "text": "四日丙戌陽九月廿八日上午九点二十分入診諸節泰平",
               "language": "lzh"
             },
             {
@@ -6665,7 +6665,7 @@
             {
               "id": "034l06",
               "role": "body",
-              "text": "太平上午八点三十分動駕水原陪從建陵東",
+              "text": "太平上午六点三十分動駕水原陪從建陵東",
               "language": "lzh"
             },
             {
@@ -7741,7 +7741,7 @@
             {
               "id": "040l03",
               "role": "body",
-              "text": "初八日庚申陽十一月一日入直仍而醫員金東錫上午八点五十分",
+              "text": "初八日庚申陽十一月一日入直仍而醫員金東錫上午八点五十八分",
               "language": "lzh"
             },
             {
@@ -7926,7 +7926,7 @@
             {
               "id": "041l03",
               "role": "body",
-              "text": "兩闕典醫入直〔韓字 H02〕不可異同〔韓字 H03〕自今〔韓字 H04〕入直〔韓字 H05〕相與輪替",
+              "text": "兩闕典醫入直〔韓字 H02〕不可異同〔韓字 H03〕自今〔韓字 H04〕入直〔韓字 H05〕相與輪番",
               "language": "lzh"
             },
             {
@@ -8674,7 +8674,7 @@
             {
               "id": "044r04",
               "role": "body",
-              "text": "下午二点侍從卿以感候頗重之意為敎頭痛肢",
+              "text": "下午一点侍從卿以感候頗重之意為敎頭痛肢",
               "language": "lzh"
             },
             {
@@ -8753,7 +8753,7 @@
             {
               "id": "044l06",
               "role": "body",
-              "text": "從卿第",
+              "text": "從卿矣",
               "language": "lzh"
             },
             {
@@ -9134,7 +9134,7 @@
             {
               "id": "046l09",
               "role": "body",
-              "text": "自侍從院因内部來函問王檀君祭廢止後有處理",
+              "text": "自侍從院因内部來函問玉樞丹祭廢止後有處理",
               "language": "lzh"
             },
             {
@@ -9225,7 +9225,7 @@
             {
               "id": "047r05",
               "role": "body",
-              "text": "本無址基五尺管土地之意答送",
+              "text": "本無址基與所管土地之意答送",
               "language": "lzh"
             },
             {
@@ -9326,7 +9326,7 @@
             {
               "id": "047l10",
               "role": "body",
-              "text": "九日辛卯陽十二月二日上午九点二十分入診滯祟快減而湯劑",
+              "text": "九日辛卯陽十二月二日上午九点三十分入診滯祟快減而湯劑",
               "language": "lzh"
             }
           ],
@@ -9423,7 +9423,7 @@
             {
               "id": "048r04",
               "role": "body",
-              "text": "卧保和湯進之意仰達",
+              "text": "卧保和湯更進之意仰達",
               "language": "lzh",
               "small_notes": [
                 "R04–R05 欄底小列太皇帝陛下"
@@ -9688,7 +9688,7 @@
             {
               "id": "049l02",
               "role": "body",
-              "text": "十八日庚子陽十二月十一日上午九点三十分入診脉候調均湯",
+              "text": "十八日庚子陽十二月十一日上午九点二十分入診脉候調均湯",
               "language": "lzh"
             },
             {
@@ -9828,7 +9828,7 @@
             {
               "id": "050r07",
               "role": "body",
-              "text": "藥房年例進上之最大者十月以後每日駝粥冬至臘",
+              "text": "藥房年例進上之最大務十月以後每日駝粥冬至臘",
               "language": "lzh"
             },
             {
@@ -10236,7 +10236,7 @@
             {
               "id": "052l03",
               "role": "body",
-              "text": "候故臨卧加味正氣散繼進之意稟下",
+              "text": "候故臨卧加味正氣散再繼進之意稟下",
               "language": "lzh"
             },
             {
@@ -10616,7 +10616,7 @@
             {
               "id": "054r10",
               "role": "body",
-              "text": "還宮同午点典醫徐丙孝醫洪哲普入診脉",
+              "text": "還宮同午点典醫徐丙孝醫員洪哲普入診脉",
               "language": "lzh"
             }
           ],
@@ -10790,7 +10790,8 @@
       "body": 1039,
       "hangul_note": 16
     },
-    "dated_or_marginal_annotations": 128
+    "dated_or_marginal_annotations": 128,
+    "reviewed_image_frames": 55
   },
   "source_manifest_sha256": "8db7e87375307be077e72a77363c1998b1d04a6dacc4b367759df5bd1354cc13",
   "attribution": "한국학중앙연구원 장서각 소장 자료"

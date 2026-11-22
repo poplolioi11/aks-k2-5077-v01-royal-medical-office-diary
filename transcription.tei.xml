@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. Source-image review compared independent observations with the initial transcription and records 42 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>韓國學中央研究院藏書閣 K2-5077 冊001 <ref target="https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-5077">Source catalogue</ref>
@@ -64,7 +64,7 @@
           <ab type="body" n="003r05" xml:id="u-003r05" xml:lang="lzh">加五分更加白豆蔲一錢繼進水剌後查曲茶繼</ab>
           <ab type="body" n="003r06" xml:id="u-003r06" xml:lang="lzh">進為定</ab>
           <ab type="body" n="003r07" xml:id="u-003r07" xml:lang="lzh">入直徐丙孝</ab>
-          <ab type="body" n="003r08" xml:id="u-003r08" xml:lang="lzh">今十⟦一／□⟧日以　哲仁王后忌辰自明日至十二日</ab>
+          <ab type="body" n="003r08" xml:id="u-003r08" xml:lang="lzh">今十一日以　哲仁王后忌辰自明日至十二日</ab>
           <ab type="body" n="003r09" xml:id="u-003r09" xml:lang="lzh">太皇帝陛下進御粟米飲事以電話轉禀于</ab>
           <ab type="body" n="003r10" xml:id="u-003r10" xml:lang="lzh">承寧府</ab>
           <note type="editorial">右第二欄的上半及第一欄末零星人名旁注須另作細核。</note>
@@ -141,7 +141,7 @@
         <div type="surface" n="left">
           <ab type="body" n="005l01" xml:id="u-005l01" xml:lang="lzh">二十二日入直洪在鶴而醫員李康年也上午九点</ab>
           <note type="small-writing" target="#u-005l01">L01 陽廿、土〔小字待核〕</note>
-          <ab type="body" n="005l02" xml:id="u-005l02" xml:lang="lzh">入診湯劑安心建理湯水刺後保和湯下午二点</ab>
+          <ab type="body" n="005l02" xml:id="u-005l02" xml:lang="lzh">入診湯劑空心建理湯水刺後保和湯下午二点</ab>
           <ab type="body" n="005l03" xml:id="u-005l03" xml:lang="lzh">動駕于後苑同四点還御而有滯感之候因院</ab>
           <ab type="body" n="005l04" xml:id="u-005l04" xml:lang="lzh">卿指揮同典醫長並為入診以保和湯加藿葉</ab>
           <ab type="body" n="005l05" xml:id="u-005l05" xml:lang="lzh">一錢一貼煎進且</ab>
@@ -389,7 +389,7 @@
           <ab type="body" n="012l05" xml:id="u-012l05" xml:lang="lzh">宙合樓下午三点二十分還御</ab>
           <ab type="body" n="012l06" xml:id="u-012l06" xml:lang="lzh">十五日入直仍醫員金東錫上午八点半入</ab>
           <note type="small-writing" target="#u-012l06">L06 己巳、陽十三日、晴</note>
-          <ab type="body" n="012l07" xml:id="u-012l07" xml:lang="lzh">診聖候安寧湯劑續進</ab>
+          <ab type="body" n="012l07" xml:id="u-012l07" xml:lang="lzh">診聖候恭平自明日空心湯劑前方香砂君</ab>
           <ab type="body" n="012l08" xml:id="u-012l08" xml:lang="lzh">子湯煎進之意仰稟下午二点五分朴宗桓小山善</ab>
           <ab type="body" n="012l09" xml:id="u-012l09" xml:lang="lzh">飯塚徹醫入侍</ab>
           <note type="small-writing" target="#u-012l09">L09「醫」右側小「齒」</note>
@@ -411,7 +411,7 @@
           <ab type="body" n="013r04" xml:id="u-013r04" xml:lang="lzh">生煎藥以藥丁各分味</ab>
           <ab type="body" n="013r05" xml:id="u-013r05" xml:lang="lzh">入直洪在鶴醫員李康年下午一点同典醫長並為</ab>
           <ab type="body" n="013r06" xml:id="u-013r06" xml:lang="lzh">入診脉候調均空心水刺後如昨續進同時邀飯</ab>
-          <ab type="body" n="013r07" xml:id="u-013r07" xml:lang="lzh">塚徹以齒科所用刀刮去舊齒傷污穢三次連以水</ab>
+          <ab type="body" n="013r07" xml:id="u-013r07" xml:lang="lzh">塚徹以齒科所用刀刮去舊齒傍污穢三次連以水</ab>
           <note type="small-writing" target="#u-013r07">R07–R08 近「水」旁細字「蓋剝棚炙水」〔候選〕</note>
           <ab type="body" n="013r08" xml:id="u-013r08" xml:lang="lzh">漱口朴宗桓侍側舉行四点十分退出</ab>
           <ab type="body" n="013r09" xml:id="u-013r09" xml:lang="lzh">治療時宮相及院卿副卿海豐府院君侍從嚴柱</ab>
@@ -423,7 +423,7 @@
           <note type="small-writing" target="#u-013l02">L02 辛未晴、陽七月十五日</note>
           <ab type="body" n="013l03" xml:id="u-013l03" xml:lang="lzh">診脉候調均便度太順他無症候湯劑續進</ab>
           <ab type="body" n="013l04" xml:id="u-013l04" xml:lang="lzh">水刺後進御洋藥〔細字見旁注〕筧麻子</ab>
-          <note type="small-writing" target="#u-013l04">L04–L05 夾小欄「自十一日所進者而茲錄藥名故今比記左／七月十□日午前進」〔單字與讀序待核〕</note>
+          <note type="small-writing" target="#u-013l04">L04–L05 夾小欄「自十一日所進者而茲錄藥名故今比記左／七月十日午前進」〔單字與讀序待核〕</note>
           <ab type="body" n="013l05" xml:id="u-013l05" xml:lang="lzh">油〔二五、〇〕重炭酸曹達二、〇〔韓字 H01 上段〕</ab>
           <ab type="body" n="013l06" xml:id="u-013l06" xml:lang="lzh">〔韓字 H01 下段〕〇、六右為分三包日三服水刺後進</ab>
           <ab type="body" n="013l07" xml:id="u-013l07" xml:lang="lzh">皇后陛下御進炭酸麻屈〇五炭酸曹達二、〇〔韓字 H02 上段〕</ab>
@@ -481,7 +481,7 @@
           <ab type="body" n="015r02" xml:id="u-015r02" xml:lang="lzh">大皇帝陛下下午四点動駕後苑接見曾彌副統監</ab>
           <ab type="body" n="015r03" xml:id="u-015r03" xml:lang="lzh">御覽日本畫師繪事同五点五十分還宮華族諸</ab>
           <ab type="body" n="015r04" xml:id="u-015r04" xml:lang="lzh">氏亦參陪</ab>
-          <ab type="body" n="015r05" xml:id="u-015r05" xml:lang="lzh">二十三日入直仍醫員金東錫上午八点三十分</ab>
+          <ab type="body" n="015r05" xml:id="u-015r05" xml:lang="lzh">二十三日入直仍醫員金東錫上午八点四十</ab>
           <note type="small-writing" target="#u-015r05">R05 丁丑、晝而順、雨夜而大注〔小字待核〕</note>
           <ab type="body" n="015r06" xml:id="u-015r06" xml:lang="lzh">分入診而脾胃脉稍為滑數便度不順或有腹痛</ab>
           <ab type="body" n="015r07" xml:id="u-015r07" xml:lang="lzh">明是滯冷之候也然連進洋藥之餘不可率爾改</ab>
@@ -559,10 +559,10 @@
           <ab type="body" n="017r10" xml:id="u-017r10" xml:lang="lzh">皇后陛下朴宗桓及齒醫走齒菜于</ab>
         </div>
         <div type="surface" n="left">
-          <ab type="body" n="017l01" xml:id="u-017l01" xml:lang="lzh">大皇帝陛下午後三点退出</ab>
+          <ab type="body" n="017l01" xml:id="u-017l01" xml:lang="lzh">大皇帝陛下下午三点退出</ab>
           <ab type="body" n="017l02" xml:id="u-017l02" xml:lang="lzh">皇后陛下泄候平復仍進前湯劑一貼續</ab>
           <ab type="body" n="017l03" xml:id="u-017l03" xml:lang="lzh">進意仰稟</ab>
-          <ab type="body" n="017l04" xml:id="u-017l04" xml:lang="lzh">七月初日卯朝雨午晴入直典醫長徐丙孝醫員李康年</ab>
+          <ab type="body" n="017l04" xml:id="u-017l04" xml:lang="lzh">七月初一日甲申朝雨午晴入直典醫長徐丙孝醫員李康年</ab>
           <note type="small-writing" target="#u-017l04">L04「卯」側有小筆</note>
           <ab type="body" n="017l05" xml:id="u-017l05" xml:lang="lzh">上午八点三十分入診諸節恭平湯劑續進</ab>
           <ab type="body" n="017l06" xml:id="u-017l06" xml:lang="lzh">二日上午八点半入診諸節恭平湯劑續進</ab>
@@ -636,7 +636,7 @@
           <ab type="body" n="019l06" xml:id="u-019l06" xml:lang="lzh">皇上陛下齒部刮去齒垢仍進含漱水二瓶飯塚封進</ab>
           <ab type="body" n="019l07" xml:id="u-019l07" xml:lang="lzh">初八日辛卯晴而熱上午九点徐丙孝朴準承入診湯</ab>
           <ab type="body" n="019l08" xml:id="u-019l08" xml:lang="lzh">劑續進</ab>
-          <ab type="body" n="019l09" xml:id="u-019l09" xml:lang="lzh">皇后陛下諸節上氣腹部痛泄候等證一直無減</ab>
+          <ab type="body" n="019l09" xml:id="u-019l09" xml:lang="lzh">皇后陛下諸節上氣肢節痛泄候等證一直無減</ab>
           <ab type="body" n="019l10" xml:id="u-019l10" xml:lang="lzh">而洋藥亦已停止今日續進清平湯</ab>
         </div>
         <div type="surface" n="annotations">
@@ -664,7 +664,7 @@
         </div>
         <div type="surface" n="left">
           <ab type="body" n="020l01" xml:id="u-020l01" xml:lang="lzh">續進入直徐丙孝醫員金東錫下午六点</ab>
-          <ab type="body" n="020l02" xml:id="u-020l02" xml:lang="lzh">皇后陛下咯血症急煎一葉草五小盞進下午十</ab>
+          <ab type="body" n="020l02" xml:id="u-020l02" xml:lang="lzh">皇后陛下咯血症急煎一葉草五分重進下午十</ab>
           <note type="small-writing" target="#u-020l02">L02「葉」旁小「草」</note>
           <ab type="body" n="020l03" xml:id="u-020l03" xml:lang="lzh">一点半大皇帝陛下進御洋料後腹部不平</ab>
           <ab type="body" n="020l04" xml:id="u-020l04" xml:lang="lzh">以電話急煎查曲茶一貼進</ab>
@@ -695,13 +695,13 @@
           <ab type="body" n="021r07" xml:id="u-021r07" xml:lang="lzh">入直朴準承李康年上午九点入診湯劑繼進</ab>
           <ab type="body" n="021r08" xml:id="u-021r08" xml:lang="lzh">藥盞製造事奉承處分</ab>
           <ab type="body" n="021r09" xml:id="u-021r09" xml:lang="lzh">十六日己亥陽八月十二日曉下雨</ab>
-          <note type="small-writing" target="#u-021r09">R09 欄上開國紀元節／以陽八月十四／日改定</note>
+          <note type="small-writing" target="#u-021r09">R09 欄上開國紀元節／以陽八月廿四／日改定</note>
           <ab type="body" n="021r10" xml:id="u-021r10" xml:lang="lzh">九点入診湯劑依前繼進</ab>
         </div>
         <div type="surface" n="left">
           <ab type="body" n="021l01" xml:id="u-021l01" xml:lang="lzh">入直洪在鶴金東錫</ab>
           <ab type="body" n="021l02" xml:id="u-021l02" xml:lang="lzh">上午十点典醫洪在鶴朴宗桓帶同齒醫入侍刮</ab>
-          <ab type="body" n="021l03" xml:id="u-021l03" xml:lang="lzh">治上左齒二本以養齒洋藥一琉璃瓶封上十一</ab>
+          <ab type="body" n="021l03" xml:id="u-021l03" xml:lang="lzh">治上左齒二本以養齒洋藥一小琉璃瓶封上十一</ab>
           <ab type="body" n="021l04" xml:id="u-021l04" xml:lang="lzh">点退出</ab>
           <ab type="body" n="021l05" xml:id="u-021l05" xml:lang="lzh">十七日庚子末伏陽八月十三日入直仍而醫員李康年上午</ab>
           <note type="small-writing" target="#u-021l05">L05 日次側自午或雨或晴入夜大注〔注待核〕</note>
@@ -756,7 +756,7 @@
           <ab type="body" n="023r05" xml:id="u-023r05" xml:lang="lzh">繼進入診李海昌</ab>
           <ab type="body" n="023r06" xml:id="u-023r06" xml:lang="lzh">入直洪在鶴醫員李康年</ab>
           <ab type="body" n="023r07" xml:id="u-023r07" xml:lang="lzh">上午十点與朴宗桓帶同齒醫入侍以磨齒械磨</ab>
-          <ab type="body" n="023r08" xml:id="u-023r08" xml:lang="lzh">削下左牙齒之周同十一点退出</ab>
+          <ab type="body" n="023r08" xml:id="u-023r08" xml:lang="lzh">削下左牙齒之間同十一点退出</ab>
           <ab type="body" n="023r09" xml:id="u-023r09" xml:lang="lzh">二十四日丁未陽二十日入直仍而醫員金東錫上午八点四十分</ab>
           <ab type="body" n="023r10" xml:id="u-023r10" xml:lang="lzh">入診脉候調均湯劑繼進</ab>
         </div>
@@ -827,7 +827,7 @@
         <div type="surface" n="left">
           <ab type="body" n="025l01" xml:id="u-025l01" xml:lang="lzh">庶務課會計課典醫部也</ab>
           <ab type="body" n="025l02" xml:id="u-025l02" xml:lang="lzh">初三日丙辰陽八月二十九日上午九点入診諸節起寢後大便</ab>
-          <ab type="body" n="025l03" xml:id="u-025l03" xml:lang="lzh">微滑腹部微痛于湯劑以平陳湯改定</ab>
+          <ab type="body" n="025l03" xml:id="u-025l03" xml:lang="lzh">微滑腹部微痛午湯劑以平陳湯改定</ab>
           <ab type="body" n="025l04" xml:id="u-025l04" xml:lang="lzh">入直徐丙孝李康年</ab>
           <ab type="body" n="025l05" xml:id="u-025l05" xml:lang="lzh">初四日丁巳陽八月三十日上午九点入診脉候調均便候一如前</ab>
           <ab type="body" n="025l06" xml:id="u-025l06" xml:lang="lzh">湯劑繼進</ab>
@@ -863,7 +863,7 @@
           <ab type="body" n="026l05" xml:id="u-026l05" xml:lang="lzh">進之意　奏禀而退</ab>
           <ab type="body" n="026l06" xml:id="u-026l06" xml:lang="lzh">同十点典朴宗桓帶同齒醫入侍磨削左下牙假齒造</ab>
           <ab type="body" n="026l07" xml:id="u-026l07" xml:lang="lzh">揷磨⟦典／與⟧舊齒以為上下齊合</ab>
-          <ab type="body" n="026l08" xml:id="u-026l08" xml:lang="lzh">同十一点半　醫視總監丸山重俊　陛見</ab>
+          <ab type="body" n="026l08" xml:id="u-026l08" xml:lang="lzh">同十一点半　警視總監丸山重俊　陛見</ab>
           <ab type="body" n="026l09" xml:id="u-026l09" xml:lang="lzh">初六日己未上午八点洪在鶴入　診寢所安寧便度平</ab>
           <ab type="body" n="026l10" xml:id="u-026l10" xml:lang="lzh">順湯劑繼　進二貼</ab>
           <note type="editorial">左9欄外上方黑墨「陽九月一日」。進二貼下分小字「水剌後」「空心」，另存和正文區別。</note>
@@ -872,12 +872,12 @@
       <div n="27" type="scan" corresp="https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-5077%7C001">
         <div type="surface" n="right">
           <ab type="body" n="027r01" xml:id="u-027r01" xml:lang="lzh">入直李海昌醫員金東錫上午十点飯塚徹朴宗桓</ab>
-          <ab type="body" n="027r02" xml:id="u-027r02" xml:lang="lzh">典設長帶同待令</ab>
+          <ab type="body" n="027r02" xml:id="u-027r02" xml:lang="lzh">典醫長帶同待令</ab>
           <ab type="body" n="027r03" xml:id="u-027r03" xml:lang="lzh">初七日庚申陽九月二日晴入直仍醫員李康年上午九点入　診</ab>
           <ab type="body" n="027r04" xml:id="u-027r04" xml:lang="lzh">脈候調均湯劑繼進上午十点齒醫同朴宗桓入來典</ab>
-          <ab type="body" n="027r05" xml:id="u-027r05" xml:lang="lzh">設長帶同入侍</ab>
+          <ab type="body" n="027r05" xml:id="u-027r05" xml:lang="lzh">醫長帶同入侍</ab>
           <ab type="body" n="027r06" xml:id="u-027r06" xml:lang="lzh">初八日辛酉陽九月三日晴東風上午九点入診湯劑繼進</ab>
-          <ab type="body" n="027r07" xml:id="u-027r07" xml:lang="lzh">入直朴準承金東錫下午三点　動駕于後苑⟦熙／徳⟧慶</ab>
+          <ab type="body" n="027r07" xml:id="u-027r07" xml:lang="lzh">入直朴準承金東錫下午三点　動駕于後苑演慶</ab>
           <ab type="body" n="027r08" xml:id="u-027r08" xml:lang="lzh">堂六点還御</ab>
           <ab type="body" n="027r09" xml:id="u-027r09" xml:lang="lzh">初九日壬戌陽九月四日輕風上午九点十分入診湯劑繼進明朝梔</ab>
           <ab type="body" n="027r10" xml:id="u-027r10" xml:lang="lzh">子末蜜調勻共梔子殻煎水封入事奉承</ab>
@@ -892,7 +892,7 @@
           <ab type="body" n="027l06" xml:id="u-027l06" xml:lang="lzh">子水同昨日　下敎也</ab>
           <ab type="body" n="027l07" xml:id="u-027l07" xml:lang="lzh">入直徐丙孝金東錫</ab>
           <ab type="body" n="027l08" xml:id="u-027l08" xml:lang="lzh">十一日甲子陽九月六日晴東風上午八時入診以診候調勻而微有頭</ab>
-          <ab type="body" n="027l09" xml:id="u-027l09" xml:lang="lzh">痛故加紫正氣散一貼頭痛快減</ab>
+          <ab type="body" n="027l09" xml:id="u-027l09" xml:lang="lzh">痛故加味正氣散一貼頭痛快減</ab>
           <ab type="body" n="027l10" xml:id="u-027l10" xml:lang="lzh">十二日乙丑陽九月七日晴東風上午八点三十分入診脈候調勻</ab>
           <note type="editorial">左上框外黑字「進」分層。左右頁反透分明，欄內淡墨不附入。</note>
         </div>
@@ -902,12 +902,12 @@
           <ab type="body" n="028r01" xml:id="u-028r01" xml:lang="lzh">聖候泰平湯劑繼進</ab>
           <ab type="body" n="028r02" xml:id="u-028r02" xml:lang="lzh">入直洪在鶴醫員金東錫</ab>
           <ab type="body" n="028r03" xml:id="u-028r03" xml:lang="lzh">下午三点四十分因電話卽為待令則院卿敎内</ab>
-          <ab type="body" n="028r04" xml:id="u-028r04" xml:lang="lzh">皇后陛下便度以泄四次腹中疼痛不順云故以養胃</ab>
+          <ab type="body" n="028r04" xml:id="u-028r04" xml:lang="lzh">皇后陛下便度以泄四次腹中痞痛不順云故以養胃</ab>
           <ab type="body" n="028r05" xml:id="u-028r05" xml:lang="lzh">湯加乾薑二錢桂皮一錢香木香七分進一貼之意言告</ab>
           <ab type="body" n="028r06" xml:id="u-028r06" xml:lang="lzh">而出</ab>
-          <ab type="body" n="028r07" xml:id="u-028r07" xml:lang="lzh">太皇帝陛下下午三点半動駕後苑同五点還御</ab>
+          <ab type="body" n="028r07" xml:id="u-028r07" xml:lang="lzh">大皇帝陛下下午三点半動駕後苑同五点還御</ab>
           <ab type="body" n="028r08" xml:id="u-028r08" xml:lang="lzh">十三日丙寅晴陽九月八日今日萬壽聖節上午八点三十分</ab>
-          <ab type="body" n="028r09" xml:id="u-028r09" xml:lang="lzh">太皇帝陛下皇后陛下德壽宮動駕下午五時三十分</ab>
+          <ab type="body" n="028r09" xml:id="u-028r09" xml:lang="lzh">大皇帝陛下皇后陛下德壽宮動駕下午五時三十分</ab>
           <note type="small-writing" target="#u-028r09">R09 欄上萬壽聖節</note>
           <ab type="body" n="028r10" xml:id="u-028r10" xml:lang="lzh">還御時徐丙孝陪從</ab>
         </div>
@@ -950,7 +950,7 @@
           <ab type="body" n="029l02" xml:id="u-029l02" xml:lang="lzh">入診諸節泰平湯劑繼進空心香砂君子湯</ab>
           <ab type="body" n="029l03" xml:id="u-029l03" xml:lang="lzh">水刺後香砂養胃湯梔子末自今日停止奉承</ab>
           <ab type="body" n="029l04" xml:id="u-029l04" xml:lang="lzh">下敎以</ab>
-          <ab type="body" n="029l05" xml:id="u-029l05" xml:lang="lzh">明成皇后忌辰衛日不遠栗米飮煎進事入稟</ab>
+          <ab type="body" n="029l05" xml:id="u-029l05" xml:lang="lzh">明成皇后忌辰齋日不遠栗米飮煎進事入稟</ab>
           <note type="small-writing" target="#u-029l05">L05 下側三小列自十八日至二／十日三次〔二、十原分行〕</note>
           <ab type="body" n="029l06" xml:id="u-029l06" xml:lang="lzh">太皇帝陛下進御粟米飮二十日將事後一次煎進事自</ab>
           <ab type="body" n="029l07" xml:id="u-029l07" xml:lang="lzh">侍從院電話于承寧府以為入稟</ab>
@@ -969,7 +969,7 @@
           <ab type="body" n="030r02" xml:id="u-030r02" xml:lang="lzh">十八日辛未陽九月十三日上午八点入診湯劑繼進</ab>
           <ab type="body" n="030r03" xml:id="u-030r03" xml:lang="lzh">皇上陛下</ab>
           <ab type="body" n="030r04" xml:id="u-030r04" xml:lang="lzh">皇后陛下進御人參粟米飮進上以</ab>
-          <ab type="body" n="030r05" xml:id="u-030r05" xml:lang="lzh">明成皇后忌辰衛日故也</ab>
+          <ab type="body" n="030r05" xml:id="u-030r05" xml:lang="lzh">明成皇后忌辰齋日故也</ab>
           <ab type="body" n="030r06" xml:id="u-030r06" xml:lang="lzh">入直徐丙孝金東錫</ab>
           <ab type="body" n="030r07" xml:id="u-030r07" xml:lang="lzh">十九日壬申陽九月十四日上午八点半入診脉候調勻而夜半</ab>
           <ab type="body" n="030r08" xml:id="u-030r08" xml:lang="lzh">每有腹部微痛之症故空心湯劑依前建理湯更</ab>
@@ -982,7 +982,7 @@
           <note type="small-writing" target="#u-030l02">L02 欄上三小欄皇后陛下誕辰而／以陽九月十九日改定／陰八月二十四日也〔日期筆畫待細核〕</note>
           <ab type="body" n="030l03" xml:id="u-030l03" xml:lang="lzh">水刺後香砂養胃湯進御今日乃</ab>
           <ab type="body" n="030l04" xml:id="u-030l04" xml:lang="lzh">明成皇后忌辰破齋也</ab>
-          <ab type="body" n="030l05" xml:id="u-030l05" xml:lang="lzh">太皇帝陛下皇后陛下臨御戴德堂望哭進粟米</ab>
+          <ab type="body" n="030l05" xml:id="u-030l05" xml:lang="lzh">太皇帝陛下皇后陛下臨御載德堂望哭進粟米</ab>
           <note type="small-writing" target="#u-030l05">L05–L06 上方三小欄太皇帝陛下進／御粟米飮將事／後一次進上</note>
           <ab type="body" n="030l06" xml:id="u-030l06" xml:lang="lzh">飮於將事之後</ab>
           <ab type="body" n="030l07" xml:id="u-030l07" xml:lang="lzh">入直洪在鶴醫員金東錫</ab>
@@ -1013,7 +1013,7 @@
           <ab type="body" n="031l01" xml:id="u-031l01" xml:lang="lzh">侍洗滌昨日拔出齒牙仍為點藥侍從院卿又招入</ab>
           <ab type="body" n="031l02" xml:id="u-031l02" xml:lang="lzh">徐丙孝以皇后陛下諸節之尚無減度爛加商議為</ab>
           <ab type="body" n="031l03" xml:id="u-031l03" xml:lang="lzh">敎下午三点因電話入直入去則院卿傳語</ab>
-          <ab type="body" n="031l04" xml:id="u-031l04" xml:lang="lzh">皇后陛下空心湯劑進御後仍卽眩暈脅部有悶矣其</ab>
+          <ab type="body" n="031l04" xml:id="u-031l04" xml:lang="lzh">皇后陛下空心湯劑進御後仍卽眩暈胸部有悶矣其</ab>
           <ab type="body" n="031l05" xml:id="u-031l05" xml:lang="lzh">後幾時進御水刺而今則比朝少減間或行步猶有餘怏</ab>
           <ab type="body" n="031l06" xml:id="u-031l06" xml:lang="lzh">之候云此必泥滯為眩故午湯劑平胃散置之以加味二陳</ab>
           <ab type="body" n="031l07" xml:id="u-031l07" xml:lang="lzh">湯煎進</ab>
@@ -1031,10 +1031,10 @@
         <div type="surface" n="right">
           <ab type="body" n="032r01" xml:id="u-032r01" xml:lang="lzh">二十五日戊寅陽九月二十日上午九点半入診諸節泰平湯劑</ab>
           <ab type="body" n="032r02" xml:id="u-032r02" xml:lang="lzh">繼進入直醫員李康年</ab>
-          <ab type="body" n="032r03" xml:id="u-032r03" xml:lang="lzh">二十六日己卯陽九月二十一日上午九点五十分入診諸節泰平湯</ab>
+          <ab type="body" n="032r03" xml:id="u-032r03" xml:lang="lzh">二十六日己卯陽九月二十一日上午九点二十五分入診諸節泰平湯</ab>
           <ab type="body" n="032r04" xml:id="u-032r04" xml:lang="lzh">劑繼進入直洪在鶴醫員金東錫</ab>
-          <ab type="body" n="032r05" xml:id="u-032r05" xml:lang="lzh">上午十一点與朴宗桓帶同齒醫飯塚徹入侍而前日</ab>
-          <ab type="body" n="032r06" xml:id="u-032r06" xml:lang="lzh">拔去齒痕腐姑未堅完只點藥水傳止磨削小頃</ab>
+          <ab type="body" n="032r05" xml:id="u-032r05" xml:lang="lzh">上午十二点與朴宗桓帶同齒醫飯塚徹入侍而前日</ab>
+          <ab type="body" n="032r06" xml:id="u-032r06" xml:lang="lzh">拔去齒痕處姑未堅完只點藥水傳止磨削小頃</ab>
           <ab type="body" n="032r07" xml:id="u-032r07" xml:lang="lzh">退出</ab>
           <ab type="body" n="032r08" xml:id="u-032r08" xml:lang="lzh">下午二点因院卿知委典醫長徐丙孝典醫洪在鶴</ab>
           <ab type="body" n="032r09" xml:id="u-032r09" xml:lang="lzh">承寧府典醫洪哲普金濬培並入診于</ab>
@@ -1079,10 +1079,10 @@
           <ab type="body" n="033l03" xml:id="u-033l03" xml:lang="lzh">拔出之牙齒一個樣做出再明日更為待令云朴宗桓</ab>
           <ab type="body" n="033l04" xml:id="u-033l04" xml:lang="lzh">以身病不進禮式官李仁用替行通譯</ab>
           <ab type="body" n="033l05" xml:id="u-033l05" xml:lang="lzh">三日乙酉陽九月廿七日入直徐丙孝醫員金東錫</ab>
-          <ab type="body" n="033l06" xml:id="u-033l06" xml:lang="lzh">上午九点三十分入診諸節泰平湯劑復議定</ab>
+          <ab type="body" n="033l06" xml:id="u-033l06" xml:lang="lzh">上午九点二十分入診諸節泰平湯劑復議定</ab>
           <ab type="body" n="033l07" xml:id="u-033l07" xml:lang="lzh">空心香砂君子湯水刺後平陳仍進朴準承入</ab>
           <note type="small-writing" target="#u-033l07">L07–L08 側有小字診可能接L07末</note>
-          <ab type="body" n="033l08" xml:id="u-033l08" xml:lang="lzh">四日丙戌陽九月廿八日上午九点三十分入診諸節泰平</ab>
+          <ab type="body" n="033l08" xml:id="u-033l08" xml:lang="lzh">四日丙戌陽九月廿八日上午九点二十分入診諸節泰平</ab>
           <ab type="body" n="033l09" xml:id="u-033l09" xml:lang="lzh">湯劑繼進□張尚宮仰問</ab>
           <ab type="body" n="033l10" xml:id="u-033l10" xml:lang="lzh">皇后陛下諸節則別無動靜手足掌心熱□</ab>
         </div>
@@ -1114,7 +1114,7 @@
           <ab type="body" n="034l03" xml:id="u-034l03" xml:lang="lzh">入直李海昌醫員下午一点齒醫與朴宗桓入診典醫</ab>
           <ab type="body" n="034l04" xml:id="u-034l04" xml:lang="lzh">長帶同入侍</ab>
           <ab type="body" n="034l05" xml:id="u-034l05" xml:lang="lzh">初八日庚寅陽十月二日晴入直仍醫員金東錫上午四点入診諸節</ab>
-          <ab type="body" n="034l06" xml:id="u-034l06" xml:lang="lzh">太平上午八点三十分動駕水原陪從建陵東</ab>
+          <ab type="body" n="034l06" xml:id="u-034l06" xml:lang="lzh">太平上午六点三十分動駕水原陪從建陵東</ab>
           <ab type="body" n="034l07" xml:id="u-034l07" xml:lang="lzh">御鐵路車侍從醫官同禮式官並侍衛典醫</ab>
           <ab type="body" n="034l08" xml:id="u-034l08" xml:lang="lzh">朴宗桓陪從下午六点十分還御</ab>
           <ab type="body" n="034l09" xml:id="u-034l09" xml:lang="lzh">初九日辛卯陽十月三日晴上午九点入診諸節泰平湯劑繼進</ab>
@@ -1295,7 +1295,7 @@
         <div type="surface" n="left">
           <ab type="body" n="040l01" xml:id="u-040l01" xml:lang="lzh">角一錢煎進之意仰達</ab>
           <ab type="body" n="040l02" xml:id="u-040l02" xml:lang="lzh">入直洪在鶴醫員李康老</ab>
-          <ab type="body" n="040l03" xml:id="u-040l03" xml:lang="lzh">初八日庚申陽十一月一日入直仍而醫員金東錫上午八点五十分</ab>
+          <ab type="body" n="040l03" xml:id="u-040l03" xml:lang="lzh">初八日庚申陽十一月一日入直仍而醫員金東錫上午八点五十八分</ab>
           <ab type="body" n="040l04" xml:id="u-040l04" xml:lang="lzh">入診脉候雖曰調勻咽喉之症尚未快復水刺後平</ab>
           <ab type="body" n="040l05" xml:id="u-040l05" xml:lang="lzh">陳湯停止以昨進甘吉湯一貼進御○下午四点</ab>
           <ab type="body" n="040l06" xml:id="u-040l06" xml:lang="lzh">侍從補金東洙奉命來傳曰</ab>
@@ -1326,7 +1326,7 @@
         <div type="surface" n="left">
           <ab type="body" n="041l01" xml:id="u-041l01" xml:lang="lzh">皇后陛下空心湯劑以香砂養胃一貼進</ab>
           <ab type="body" n="041l02" xml:id="u-041l02" xml:lang="lzh">侍從趙重國通牒來到現承本府大臣訓令〔韓字 H01〕</ab>
-          <ab type="body" n="041l03" xml:id="u-041l03" xml:lang="lzh">兩闕典醫入直〔韓字 H02〕不可異同〔韓字 H03〕自今〔韓字 H04〕入直〔韓字 H05〕相與輪替</ab>
+          <ab type="body" n="041l03" xml:id="u-041l03" xml:lang="lzh">兩闕典醫入直〔韓字 H02〕不可異同〔韓字 H03〕自今〔韓字 H04〕入直〔韓字 H05〕相與輪番</ab>
           <ab type="body" n="041l04" xml:id="u-041l04" xml:lang="lzh">〔韓字 H06〕允合方便〔韓字 H07〕玆將訓令〔韓字 H08〕准此指飭〔韓字 H09〕事等因</ab>
           <ab type="body" n="041l05" xml:id="u-041l05" xml:lang="lzh">〔韓字 H10〕玆〔韓字 H11〕通牒〔韓字 H12〕照亮為要云</ab>
           <ab type="body" n="041l06" xml:id="u-041l06" xml:lang="lzh">德壽宮宮殿門票典醫長一員典醫四員合五度來到</ab>
@@ -1422,7 +1422,7 @@
           <note type="small-writing" target="#u-044r01">R01 右側細字金東錫〔與正文李康老關係待核〕</note>
           <ab type="body" n="044r02" xml:id="u-044r02" xml:lang="lzh">診脉候調勻湯劑繼進</ab>
           <ab type="body" n="044r03" xml:id="u-044r03" xml:lang="lzh">皇后陛下水刺後香葛正氣散進之意仰稟矣</ab>
-          <ab type="body" n="044r04" xml:id="u-044r04" xml:lang="lzh">下午二点侍從卿以感候頗重之意為敎頭痛肢</ab>
+          <ab type="body" n="044r04" xml:id="u-044r04" xml:lang="lzh">下午一点侍從卿以感候頗重之意為敎頭痛肢</ab>
           <ab type="body" n="044r05" xml:id="u-044r05" xml:lang="lzh">節痛身熱惡寒之候俱有云故更以沖和湯議定</ab>
           <ab type="body" n="044r06" xml:id="u-044r06" xml:lang="lzh">水刺後臨卧日再進</ab>
           <ab type="body" n="044r07" xml:id="u-044r07" xml:lang="lzh">二十二日甲戌陽十一月十五日晴上午八点半分入診脉候調勻湯劑繼進</ab>
@@ -1436,7 +1436,7 @@
           <ab type="body" n="044l03" xml:id="u-044l03" xml:lang="lzh">皇后陛下諸節因于内官所傳腹部微痛引</ab>
           <ab type="body" n="044l04" xml:id="u-044l04" xml:lang="lzh">胳痛水刺不能善進云故香砂養胃湯日</ab>
           <ab type="body" n="044l05" xml:id="u-044l05" xml:lang="lzh">再進事侍從李喬永仰奏亦為電告于侍</ab>
-          <ab type="body" n="044l06" xml:id="u-044l06" xml:lang="lzh">從卿第</ab>
+          <ab type="body" n="044l06" xml:id="u-044l06" xml:lang="lzh">從卿矣</ab>
           <ab type="body" n="044l07" xml:id="u-044l07" xml:lang="lzh">入直洪哲普李康老</ab>
           <ab type="body" n="044l08" xml:id="u-044l08" xml:lang="lzh">下午四点因電話入診皇后陛下諸節脉候</ab>
           <note type="small-writing" target="#u-044l08">L08 點字側小「十分」</note>
@@ -1501,7 +1501,7 @@
           <note type="small-writing" target="#u-046l06">L06 日次側早雪睌陰而寒〔中一字待核〕</note>
           <ab type="body" n="046l07" xml:id="u-046l07" xml:lang="lzh">而微有感候咽喉不平以忍葛正氣散臨卧進改定</ab>
           <ab type="body" n="046l08" xml:id="u-046l08" xml:lang="lzh">水刺後平陳湯中去良薑丁香入直朴準承李康老</ab>
-          <ab type="body" n="046l09" xml:id="u-046l09" xml:lang="lzh">自侍從院因内部來函問王檀君祭廢止後有處理</ab>
+          <ab type="body" n="046l09" xml:id="u-046l09" xml:lang="lzh">自侍從院因内部來函問玉樞丹祭廢止後有處理</ab>
           <ab type="body" n="046l10" xml:id="u-046l10" xml:lang="lzh">事該祭設行年條址基何處問於典醫回復云故</ab>
         </div>
         <div type="surface" n="annotations">
@@ -1516,7 +1516,7 @@
           <ab type="body" n="047r03" xml:id="u-047r03" xml:lang="lzh">每於端午祭物自奉常寺舉行進排設行於空闕</ab>
           <ab type="body" n="047r04" xml:id="u-047r04" xml:lang="lzh">藥房大廳而炎帝神農氏位牌奉安壁龕故也</ab>
           <note type="small-writing" target="#u-047r04">R04 壁龕附近夾一小字待核</note>
-          <ab type="body" n="047r05" xml:id="u-047r05" xml:lang="lzh">本無址基五尺管土地之意答送</ab>
+          <ab type="body" n="047r05" xml:id="u-047r05" xml:lang="lzh">本無址基與所管土地之意答送</ab>
           <ab type="body" n="047r06" xml:id="u-047r06" xml:lang="lzh">奏判任官仕進勤慢記修送于侍從院乃年終</ab>
           <ab type="body" n="047r07" xml:id="u-047r07" xml:lang="lzh">之例而因宮内府秘訓云</ab>
           <ab type="body" n="047r08" xml:id="u-047r08" xml:lang="lzh">六日戊子陽十一月二十九日入直朴準承李康老</ab>
@@ -1535,7 +1535,7 @@
           <ab type="body" n="047l07" xml:id="u-047l07" xml:lang="lzh">八日庚寅陽十二月一日入直仍醫員李康老上午九点三十分入</ab>
           <ab type="body" n="047l08" xml:id="u-047l08" xml:lang="lzh">診脉候沈滑微有滯祟故仍以保和湯繼進</ab>
           <ab type="body" n="047l09" xml:id="u-047l09" xml:lang="lzh">皇后陛下湯劑以加味養胃湯繼進</ab>
-          <ab type="body" n="047l10" xml:id="u-047l10" xml:lang="lzh">九日辛卯陽十二月二日上午九点二十分入診滯祟快減而湯劑</ab>
+          <ab type="body" n="047l10" xml:id="u-047l10" xml:lang="lzh">九日辛卯陽十二月二日上午九点三十分入診滯祟快減而湯劑</ab>
         </div>
         <div type="surface" n="annotations">
           <note type="editorial">左面朱界色較右面濃。</note>
@@ -1548,7 +1548,7 @@
           <ab type="body" n="048r01" xml:id="u-048r01" xml:lang="lzh">繼進入直李海昌金東錫</ab>
           <ab type="body" n="048r02" xml:id="u-048r02" xml:lang="lzh">十日壬辰陽十二月三日晴入直仍醫員李康老上午九点四十分入診</ab>
           <ab type="body" n="048r03" xml:id="u-048r03" xml:lang="lzh">脉候調勻滯候尚未平復空心湯劑進水刺後臨</ab>
-          <ab type="body" n="048r04" xml:id="u-048r04" xml:lang="lzh">卧保和湯進之意仰達</ab>
+          <ab type="body" n="048r04" xml:id="u-048r04" xml:lang="lzh">卧保和湯更進之意仰達</ab>
           <note type="small-writing" target="#u-048r04">R04–R05 欄底小列太皇帝陛下</note>
           <ab type="body" n="048r05" xml:id="u-048r05" xml:lang="lzh">皇后陛下養胃湯繼進下午七点因電話待令則夕</ab>
           <ab type="body" n="048r06" xml:id="u-048r06" xml:lang="lzh">水刺後水泄三次下腹微痛為敎故臨卧溫平散</ab>
@@ -1592,7 +1592,7 @@
         </div>
         <div type="surface" n="left">
           <ab type="body" n="049l01" xml:id="u-049l01" xml:lang="lzh">十分入診諸節泰平湯劑繼進</ab>
-          <ab type="body" n="049l02" xml:id="u-049l02" xml:lang="lzh">十八日庚子陽十二月十一日上午九点三十分入診脉候調均湯</ab>
+          <ab type="body" n="049l02" xml:id="u-049l02" xml:lang="lzh">十八日庚子陽十二月十一日上午九点二十分入診脉候調均湯</ab>
           <ab type="body" n="049l03" xml:id="u-049l03" xml:lang="lzh">劑繼進而水刺後臨卧湯劑以加味平陳湯進</ab>
           <ab type="body" n="049l04" xml:id="u-049l04" xml:lang="lzh">入直仍而醫員李康老典醫洪哲普因院卿丈</ab>
           <ab type="body" n="049l05" xml:id="u-049l05" xml:lang="lzh">知委入診于</ab>
@@ -1616,7 +1616,7 @@
           <ab type="body" n="050r04" xml:id="u-050r04" xml:lang="lzh">入直朴準承金東錫</ab>
           <ab type="body" n="050r05" xml:id="u-050r05" xml:lang="lzh">二十二日甲辰陽十二月十五日晴上午九点入診湯劑繼進</ab>
           <ab type="body" n="050r06" xml:id="u-050r06" xml:lang="lzh">入直朴準承李康老</ab>
-          <ab type="body" n="050r07" xml:id="u-050r07" xml:lang="lzh">藥房年例進上之最大者十月以後每日駝粥冬至臘</ab>
+          <ab type="body" n="050r07" xml:id="u-050r07" xml:lang="lzh">藥房年例進上之最大務十月以後每日駝粥冬至臘</ab>
           <ab type="body" n="050r08" xml:id="u-050r08" xml:lang="lzh">藥臘月各種丸劑之製備等三件事而初以駝粥移</ab>
           <ab type="body" n="050r09" xml:id="u-050r09" xml:lang="lzh">屬典膳司次以煎藥移屬典膳司并隨適當所</ab>
           <ab type="body" n="050r10" xml:id="u-050r10" xml:lang="lzh">用時製造非依例舉行者也日昨又以臘藥廢止</ab>
@@ -1686,7 +1686,7 @@
         <div type="surface" n="left">
           <ab type="body" n="052l01" xml:id="u-052l01" xml:lang="lzh">之意稟下</ab>
           <ab type="body" n="052l02" xml:id="u-052l02" xml:lang="lzh">九日庚申陽三十一日入直仍上午十点三十分入診脉候調均之微暴感</ab>
-          <ab type="body" n="052l03" xml:id="u-052l03" xml:lang="lzh">候故臨卧加味正氣散繼進之意稟下</ab>
+          <ab type="body" n="052l03" xml:id="u-052l03" xml:lang="lzh">候故臨卧加味正氣散再繼進之意稟下</ab>
           <ab type="body" n="052l04" xml:id="u-052l04" xml:lang="lzh">初十日辛酉上午九点徐丙孝入診湯劑繼進</ab>
           <note type="small-writing" target="#u-052l04">L04 欄上陽一月一日</note>
           <ab type="body" n="052l05" xml:id="u-052l05" xml:lang="lzh">親勅奏任官行正朝祝賀于仁政殿</ab>
@@ -1748,7 +1748,7 @@
           <ab type="body" n="054r07" xml:id="u-054r07" xml:lang="lzh">二十日辛未陽一月十一日馬山驛御留宿</ab>
           <ab type="body" n="054r08" xml:id="u-054r08" xml:lang="lzh">二十一日壬申陽一月十二日上午八時四十分御車發向大邱</ab>
           <ab type="body" n="054r09" xml:id="u-054r09" xml:lang="lzh">二十二日癸酉陽一月十三日上午九時自大邱御車發下午四時半</ab>
-          <ab type="body" n="054r10" xml:id="u-054r10" xml:lang="lzh">還宮同午点典醫徐丙孝醫洪哲普入診脉</ab>
+          <ab type="body" n="054r10" xml:id="u-054r10" xml:lang="lzh">還宮同午点典醫徐丙孝醫員洪哲普入診脉</ab>
         </div>
         <div type="surface" n="left">
           <ab type="body" n="054l01" xml:id="u-054l01" xml:lang="lzh">候調湯依前繼進之意仰稟</ab>

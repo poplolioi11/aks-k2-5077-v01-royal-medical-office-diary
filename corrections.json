@@ -1,0 +1,4588 @@
+{
+  "initial_sha256": "57630c4a9307c60981d8270f423dbb55afb1fb1834d4b9ee62d84a42d1c32925",
+  "scopes": [
+    {
+      "scope": [
+        1,
+        27
+      ],
+      "photo_and_text_decisions_sha256": "b50a4198c30791a8fb294bde7027fc673145fb6a7dc896d49b86c3024ea55bdf",
+      "open_questions_sha256": "792cc7e04c6366076db0bac358f6e0a6ec8b9f2d742f95c89611390e1d572a12"
+    },
+    {
+      "scope": [
+        28,
+        55
+      ],
+      "photo_and_text_decisions_sha256": "14f617cc6739a9e0ac07fe652d5293806d04e085e6cbd9c01eeaae2a20bbf0af",
+      "open_questions_sha256": "44831eeeb185336b20c5f02d2160c9af1f4fbb89b8926e4ea8716b60f07929e1"
+    }
+  ],
+  "changes": [
+    {
+      "unit": "003r08",
+      "frame": 3,
+      "image_sha256": "da446afc6f6b6d41147e648c7c90ec306d1044e992835f90d1337c2f5581ce4e",
+      "before": "今十⟦一／□⟧日以　哲仁王后忌辰自明日至十二日",
+      "after": "今十一日以　哲仁王后忌辰自明日至十二日",
+      "reason": "十與日之間有單獨黑色橫筆，位置及粗細與同欄前後字一致。",
+      "image_bbox_xywh_approx": [
+        1358,
+        389,
+        91,
+        253
+      ]
+    },
+    {
+      "unit": "005l02",
+      "frame": 5,
+      "image_sha256": "437298fc445c507bf819a955006d1db67256ab81b3f0c037b8d38c8e35880e44",
+      "before": "入診湯劑安心建理湯水刺後保和湯下午二点",
+      "after": "入診湯劑空心建理湯水刺後保和湯下午二点",
+      "reason": "劑下為穴頭，底有工形橫筆與中豎，接下方心字。",
+      "image_bbox_xywh_approx": [
+        786,
+        605,
+        89,
+        441
+      ]
+    },
+    {
+      "unit": "012l07",
+      "frame": 12,
+      "image_sha256": "73995b7ea156ef1d8f3908411dd01dad1677f24fc59e631f84d0e3addeb48bf5",
+      "before": "診聖候安寧湯劑續進",
+      "after": "診聖候恭平自明日空心湯劑前方香砂君",
+      "reason": "聖候下的恭、平以及連續「自明日空心湯劑前方香砂君」均為正向深墨。君接左欄子湯。",
+      "image_bbox_xywh_approx": [
+        391,
+        576,
+        110,
+        1031
+      ]
+    },
+    {
+      "unit": "013r07",
+      "frame": 13,
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "before": "塚徹以齒科所用刀刮去舊齒傷污穢三次連以水",
+      "after": "塚徹以齒科所用刀刮去舊齒傍污穢三次連以水",
+      "reason": "齒下左為人旁，右部有分點、冖及方向外折。字形近傍，與拔齒文脈中的部位文字在同一欄。",
+      "image_bbox_xywh_approx": [
+        1431,
+        1047,
+        88,
+        501
+      ]
+    },
+    {
+      "unit": "015r05",
+      "frame": 15,
+      "image_sha256": "1c1fe9851015cd1efd95f6a8d56acc25a3734e0bd90e6a82a31f44608c756a1e",
+      "before": "二十三日入直仍醫員金東錫上午八点三十分",
+      "after": "二十三日入直仍醫員金東錫上午八点四十",
+      "reason": "点以下先為四形外框，再下十形，至葉底為止。「分」在下一欄頂字。",
+      "image_bbox_xywh_approx": [
+        1578,
+        1287,
+        95,
+        327
+      ]
+    },
+    {
+      "unit": "017l01",
+      "frame": 17,
+      "image_sha256": "2fb74d4d29a0ddc57d49c7b66bbbf95d1ad6b539ad6347c16b72cec3b554f616",
+      "before": "大皇帝陛下午後三点退出",
+      "after": "大皇帝陛下下午三点退出",
+      "reason": "陛下後另起的第一字為單橫下帶短豎「下」，接午三点，兩個下字皆可見。",
+      "image_bbox_xywh_approx": [
+        887,
+        753,
+        97,
+        627
+      ]
+    },
+    {
+      "unit": "017l04",
+      "frame": 17,
+      "image_sha256": "2fb74d4d29a0ddc57d49c7b66bbbf95d1ad6b539ad6347c16b72cec3b554f616",
+      "before": "七月初日卯朝雨午晴入直典醫長徐丙孝醫員李康年",
+      "after": "七月初一日甲申朝雨午晴入直典醫長徐丙孝醫員李康年",
+      "reason": "初與日之間留較長單橫，日側有較小甲，其下申形一豎穿框。次日乙酉供校對日序，干支以影像為主。",
+      "image_bbox_xywh_approx": [
+        631,
+        392,
+        134,
+        463
+      ]
+    },
+    {
+      "unit": "019l09",
+      "frame": 19,
+      "image_sha256": "7f782de618dfa251e06dbae1196370fb713d1bb627ff90a945d9d28abc8c68ca",
+      "before": "皇后陛下諸節上氣腹部痛泄候等證一直無減",
+      "after": "皇后陛下諸節上氣肢節痛泄候等證一直無減",
+      "reason": "氣下字為月旁加支，第二字上見竹頭、下方露折筆，痛其下。",
+      "image_bbox_xywh_approx": [
+        231,
+        906,
+        105,
+        346
+      ]
+    },
+    {
+      "unit": "020l02",
+      "frame": 20,
+      "image_sha256": "289b7b34506623a55da7307e39d37dc5f609c7798eb9f5faf8434ae9073bb1ff",
+      "before": "皇后陛下咯血症急煎一葉草五小盞進下午十",
+      "after": "皇后陛下咯血症急煎一葉草五分重進下午十",
+      "reason": "五下有撇捺與刀，後字中縱貫層橫並含里形，進在其下方。葉旁另有小草。",
+      "image_bbox_xywh_approx": [
+        792,
+        1199,
+        101,
+        323
+      ]
+    },
+    {
+      "unit": "021l03",
+      "frame": 21,
+      "image_sha256": "d8a64e1daf0715be2dd7150ae2b37ad5eaf67c2720cc3f74b3a0f9599cceebb1",
+      "before": "治上左齒二本以養齒洋藥一琉璃瓶封上十一",
+      "after": "治上左齒二本以養齒洋藥一小琉璃瓶封上十一",
+      "reason": "一與琉之間三筆成小，中央下筆比旁點長。",
+      "image_bbox_xywh_approx": [
+        726,
+        1112,
+        93,
+        314
+      ]
+    },
+    {
+      "unit": "023r08",
+      "frame": 23,
+      "image_sha256": "479801ca6b4de98e2ba407ce80be7e486b1fff1d6e6242b163d288ec95161a1f",
+      "before": "削下左牙齒之周同十一点退出",
+      "after": "削下左牙齒之間同十一点退出",
+      "reason": "之下面可見兩側門扇及框內獨立日形，同字另居其下。",
+      "image_bbox_xywh_approx": [
+        1369,
+        685,
+        81,
+        280
+      ]
+    },
+    {
+      "unit": "025l03",
+      "frame": 25,
+      "image_sha256": "f425bb2dba1e71744b10b49f24073959ec0268fb89f9f94a5fcb560861dbacb4",
+      "before": "微滑腹部微痛于湯劑以平陳湯改定",
+      "after": "微滑腹部微痛午湯劑以平陳湯改定",
+      "reason": "痛下先有斜撇，次兩橫和一豎，為午。",
+      "image_bbox_xywh_approx": [
+        715,
+        683,
+        100,
+        296
+      ]
+    },
+    {
+      "unit": "026l08",
+      "frame": 26,
+      "image_sha256": "f38a19868a78ce31b26e395e7d398e65971522af60a59f28a6005213fea5d38d",
+      "before": "同十一点半　醫視總監丸山重俊　陛見",
+      "after": "同十一点半　警視總監丸山重俊　陛見",
+      "reason": "視上字有敬形上部及下方言部聚筆。同一欄見丸山重俊。",
+      "image_bbox_xywh_approx": [
+        327,
+        543,
+        98,
+        460
+      ]
+    },
+    {
+      "unit": "027r02",
+      "frame": 27,
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "before": "典設長帶同待令",
+      "after": "典醫長帶同待令",
+      "reason": "典下中間字上部含交叉短筆，下面合酉形，末見長。",
+      "image_bbox_xywh_approx": [
+        1845,
+        459,
+        96,
+        297
+      ]
+    },
+    {
+      "unit": "027r05",
+      "frame": 27,
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "before": "設長帶同入侍",
+      "after": "醫長帶同入侍",
+      "reason": "欄首字與同幅 R02 典下所寫同形，上部點畫密，下部短框。",
+      "image_bbox_xywh_approx": [
+        1589,
+        438,
+        109,
+        237
+      ]
+    },
+    {
+      "unit": "027r07",
+      "frame": 27,
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "before": "入直朴準承金東錫下午三点　動駕于後苑⟦熙／徳⟧慶",
+      "after": "入直朴準承金東錫下午三点　動駕于後苑演慶",
+      "reason": "苑下字左三點水，右邊宀下由中畫貫穿舊體膚形相連，下一字為慶。",
+      "image_bbox_xywh_approx": [
+        1428,
+        1266,
+        109,
+        354
+      ]
+    },
+    {
+      "unit": "027l09",
+      "frame": 27,
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "before": "痛故加紫正氣散一貼頭痛快減",
+      "after": "痛故加味正氣散一貼頭痛快減",
+      "reason": "加下有口旁與未形的豎畫，後接正氣散。",
+      "image_bbox_xywh_approx": [
+        220,
+        554,
+        112,
+        423
+      ]
+    },
+    {
+      "unit": "028r04",
+      "frame": 28,
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "before": "皇后陛下便度以泄四次腹中疼痛不順云故以養胃",
+      "after": "皇后陛下便度以泄四次腹中痞痛不順云故以養胃",
+      "reason": "「腹中」下一字疒內上橫與下口相合，讀「痞」，接「痛」清楚",
+      "image_bbox_xywh_approx": [
+        1672,
+        989,
+        90,
+        212
+      ]
+    },
+    {
+      "unit": "028r07",
+      "frame": 28,
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "before": "太皇帝陛下下午三点半動駕後苑同五点還御",
+      "after": "大皇帝陛下下午三点半動駕後苑同五点還御",
+      "reason": "欄首上橫與左右斜腳作大形，下方無附點，接皇帝",
+      "image_bbox_xywh_approx": [
+        1429,
+        390,
+        85,
+        287
+      ]
+    },
+    {
+      "unit": "028r09",
+      "frame": 28,
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "before": "太皇帝陛下皇后陛下德壽宮動駕下午五時三十分",
+      "after": "大皇帝陛下皇后陛下德壽宮動駕下午五時三十分",
+      "reason": "欄首大字無下點，與左側同幅上緣另書萬壽聖節分離",
+      "image_bbox_xywh_approx": [
+        1261,
+        395,
+        93,
+        281
+      ]
+    },
+    {
+      "unit": "029l05",
+      "frame": 29,
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "before": "明成皇后忌辰衛日不遠栗米飮煎進事入稟",
+      "after": "明成皇后忌辰齋日不遠栗米飮煎進事入稟",
+      "reason": "忌辰後字有多筆擠疊及中央直筆，下面續日，與030r05同詞的「齋」形相應",
+      "image_bbox_xywh_approx": [
+        564,
+        675,
+        94,
+        221
+      ]
+    },
+    {
+      "unit": "030r05",
+      "frame": 30,
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "before": "明成皇后忌辰衛日故也",
+      "after": "明成皇后忌辰齋日故也",
+      "reason": "皇后忌辰下一字寫密集齊形中部而無行部，接日故也",
+      "image_bbox_xywh_approx": [
+        1607,
+        637,
+        86,
+        235
+      ]
+    },
+    {
+      "unit": "030l05",
+      "frame": 30,
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "before": "太皇帝陛下皇后陛下臨御戴德堂望哭進粟米",
+      "after": "太皇帝陛下皇后陛下臨御載德堂望哭進粟米",
+      "reason": "御下首字右有戈形，左下明見車形轉折，讀「載」",
+      "image_bbox_xywh_approx": [
+        563,
+        985,
+        76,
+        261
+      ]
+    },
+    {
+      "unit": "031l04",
+      "frame": 31,
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "before": "皇后陛下空心湯劑進御後仍卽眩暈脅部有悶矣其",
+      "after": "皇后陛下空心湯劑進御後仍卽眩暈胸部有悶矣其",
+      "reason": "「部」前一字左月旁右包形外勾，手稿未見「脅」的疊力",
+      "image_bbox_xywh_approx": [
+        634,
+        1181,
+        82,
+        407
+      ]
+    },
+    {
+      "unit": "032r03",
+      "frame": 32,
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "before": "二十六日己卯陽九月二十一日上午九点五十分入診諸節泰平湯",
+      "after": "二十六日己卯陽九月二十一日上午九点二十五分入診諸節泰平湯",
+      "reason": "点下各見二、十、五、分，二為兩短橫，十另有豎筆",
+      "image_bbox_xywh_approx": [
+        1749,
+        909,
+        90,
+        267
+      ]
+    },
+    {
+      "unit": "032r05",
+      "frame": 32,
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "before": "上午十一点與朴宗桓帶同齒醫飯塚徹入侍而前日",
+      "after": "上午十二点與朴宗桓帶同齒醫飯塚徹入侍而前日",
+      "reason": "午下見十，再下有兩橫作二，点在其下",
+      "image_bbox_xywh_approx": [
+        1582,
+        507,
+        94,
+        269
+      ]
+    },
+    {
+      "unit": "032r06",
+      "frame": 32,
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "before": "拔去齒痕腐姑未堅完只點藥水傳止磨削小頃",
+      "after": "拔去齒痕處姑未堅完只點藥水傳止磨削小頃",
+      "reason": "「痕」後上作虍形，下部向右收，讀處",
+      "image_bbox_xywh_approx": [
+        1502,
+        622,
+        92,
+        227
+      ]
+    },
+    {
+      "unit": "033l06",
+      "frame": 33,
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "before": "上午九点三十分入診諸節泰平湯劑復議定",
+      "after": "上午九点二十分入診諸節泰平湯劑復議定",
+      "reason": "點與十間有兩道墨橫，較淡左鄰字跡與此欄分離",
+      "image_bbox_xywh_approx": [
+        472,
+        525,
+        89,
+        304
+      ]
+    },
+    {
+      "unit": "033l08",
+      "frame": 33,
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "before": "四日丙戌陽九月廿八日上午九点三十分入診諸節泰平",
+      "after": "四日丙戌陽九月廿八日上午九点二十分入診諸節泰平",
+      "reason": "點下為二橫，接十與分，勿把上字末腳併入數字",
+      "image_bbox_xywh_approx": [
+        315,
+        882,
+        89,
+        260
+      ]
+    },
+    {
+      "unit": "034l06",
+      "frame": 34,
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "before": "太平上午八点三十分動駕水原陪從建陵東",
+      "after": "太平上午六点三十分動駕水原陪從建陵東",
+      "reason": "此處午下先有上點與橫，下分兩足為六，續点三十分",
+      "image_bbox_xywh_approx": [
+        470,
+        531,
+        95,
+        288
+      ]
+    },
+    {
+      "unit": "040l03",
+      "frame": 40,
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "before": "初八日庚申陽十一月一日入直仍而醫員金東錫上午八点五十分",
+      "after": "初八日庚申陽十一月一日入直仍而醫員金東錫上午八点五十八分",
+      "reason": "點下小字五、十之後可見分開兩斜筆的八，再接分",
+      "image_bbox_xywh_approx": [
+        722,
+        1354,
+        90,
+        204
+      ]
+    },
+    {
+      "unit": "041l03",
+      "frame": 41,
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "before": "兩闕典醫入直〔韓字 H02〕不可異同〔韓字 H03〕自今〔韓字 H04〕入直〔韓字 H05〕相與輪替",
+      "after": "兩闕典醫入直〔韓字 H02〕不可異同〔韓字 H03〕自今〔韓字 H04〕入直〔韓字 H05〕相與輪番",
+      "reason": "欄末字上有撇放，下田圍筆明顯，讀「番」；韓字佔位維持原錄",
+      "image_bbox_xywh_approx": [
+        725,
+        1325,
+        92,
+        274
+      ]
+    },
+    {
+      "unit": "044r04",
+      "frame": 44,
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "before": "下午二点侍從卿以感候頗重之意為敎頭痛肢",
+      "after": "下午一点侍從卿以感候頗重之意為敎頭痛肢",
+      "reason": "字下與点之間僅有一條正面橫墨，斜形筆鋒附於同一筆",
+      "image_bbox_xywh_approx": [
+        1716,
+        415,
+        92,
+        242
+      ]
+    },
+    {
+      "unit": "044l06",
+      "frame": 44,
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "before": "從卿第",
+      "after": "從卿矣",
+      "reason": "短欄尾字上厶形、下方開出大形，為矣",
+      "image_bbox_xywh_approx": [
+        482,
+        423,
+        91,
+        218
+      ]
+    },
+    {
+      "unit": "046l09",
+      "frame": 46,
+      "image_sha256": "7b0044564db5fff69c56da03b59bae1414ee6bbd2e65a3b33315e6396e7edb48",
+      "before": "自侍從院因内部來函問王檀君祭廢止後有處理",
+      "after": "自侍從院因内部來函問玉樞丹祭廢止後有處理",
+      "reason": "「問」下字有王形側點，次字木旁帶框，第三字狹框與中點作丹，連讀玉樞丹祭",
+      "image_bbox_xywh_approx": [
+        255,
+        964,
+        79,
+        415
+      ]
+    },
+    {
+      "unit": "047r05",
+      "frame": 47,
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "before": "本無址基五尺管土地之意答送",
+      "after": "本無址基與所管土地之意答送",
+      "reason": "址基下另見與及所形、接管土地；所右收筆依筆畫可辨",
+      "image_bbox_xywh_approx": [
+        1619,
+        646,
+        107,
+        424
+      ]
+    },
+    {
+      "unit": "047l10",
+      "frame": 47,
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "before": "九日辛卯陽十二月二日上午九点二十分入診滯祟快減而湯劑",
+      "after": "九日辛卯陽十二月二日上午九点三十分入診滯祟快減而湯劑",
+      "reason": "點下有三道墨橫，下面另起十及分，非背透朱線",
+      "image_bbox_xywh_approx": [
+        148,
+        687,
+        94,
+        311
+      ]
+    },
+    {
+      "unit": "048r04",
+      "frame": 48,
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "before": "卧保和湯進之意仰達",
+      "after": "卧保和湯更進之意仰達",
+      "reason": "「湯」「進」中間一整字正墨，草形中央有扁框及右下長筆，讀「更」",
+      "image_bbox_xywh_approx": [
+        1686,
+        560,
+        103,
+        338
+      ]
+    },
+    {
+      "unit": "049l02",
+      "frame": 49,
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "before": "十八日庚子陽十二月十一日上午九点三十分入診脉候調均湯",
+      "after": "十八日庚子陽十二月十一日上午九点二十分入診脉候調均湯",
+      "reason": "点下只有二道黑橫，下接十及分，再入診",
+      "image_bbox_xywh_approx": [
+        780,
+        849,
+        101,
+        287
+      ]
+    },
+    {
+      "unit": "050r07",
+      "frame": 50,
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "before": "藥房年例進上之最大者十月以後每日駝粥冬至臘",
+      "after": "藥房年例進上之最大務十月以後每日駝粥冬至臘",
+      "reason": "「大」下字右有成撇的力旁，左為繁折矛形，讀「務」",
+      "image_bbox_xywh_approx": [
+        1435,
+        826,
+        103,
+        233
+      ]
+    },
+    {
+      "unit": "052l03",
+      "frame": 52,
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "before": "候故臨卧加味正氣散繼進之意稟下",
+      "after": "候故臨卧加味正氣散再繼進之意稟下",
+      "reason": "方名下的再字可見外框與中豎，和隨後繼進分開",
+      "image_bbox_xywh_approx": [
+        701,
+        730,
+        126,
+        405
+      ]
+    },
+    {
+      "unit": "054r10",
+      "frame": 54,
+      "image_sha256": "fe974982d7a0828ee893e6dfaf8fa7db8d68e2ed1faa47c87308b75e0f679f21",
+      "before": "還宮同午点典醫徐丙孝醫洪哲普入診脉",
+      "after": "還宮同午点典醫徐丙孝醫員洪哲普入診脉",
+      "reason": "徐丙孝之後先書醫，再見折筆口、下部貝形的員，接洪哲普",
+      "image_bbox_xywh_approx": [
+        1181,
+        1111,
+        130,
+        321
+      ]
+    }
+  ],
+  "note_corrections": [
+    {
+      "frame": 21,
+      "unit": "021r09",
+      "before": "以陽八月十四／日改定",
+      "after": "以陽八月廿四／日改定",
+      "image_sha256": "d8a64e1daf0715be2dd7150ae2b37ad5eaf67c2720cc3f74b3a0f9599cceebb1"
+    },
+    {
+      "frame": 13,
+      "unit": "013l04",
+      "before": "七月十□日午前進",
+      "after": "七月十日午前進",
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45"
+    }
+  ],
+  "unresolved": [
+    {
+      "unit": "002l10",
+      "frame": 2,
+      "image_sha256": "8db8279b4d9d7a70d3d1c156678ea20cef1f9d84518cb492d61795261af7261a",
+      "before": "依前方建理湯繼進為定",
+      "reason": "末字上筆與右尾的省筆相連，定、之仍待同手法對比。",
+      "image_bbox_xywh_approx": [
+        122,
+        945,
+        105,
+        210
+      ],
+      "candidate": "依前方建理湯繼進為之"
+    },
+    {
+      "unit": "003r06",
+      "frame": 3,
+      "image_sha256": "da446afc6f6b6d41147e648c7c90ec306d1044e992835f90d1337c2f5581ce4e",
+      "before": "進為定",
+      "reason": "末字與前頁同用，字頂兩線有框意，定、之留兩讀。",
+      "image_bbox_xywh_approx": [
+        1502,
+        521,
+        84,
+        223
+      ],
+      "candidate": "進為之"
+    },
+    {
+      "unit": "013l05",
+      "frame": 13,
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "before": "油〔二五、〇〕重炭酸曹達二、〇〔韓字 H01 上段〕",
+      "reason": "兩小欄相鄰，需核「進」及藥名前字究屬正文還是附記；保存回圖候選。",
+      "image_bbox_xywh_approx": [
+        550,
+        571,
+        102,
+        572
+      ],
+      "candidate": "油〔二五、〇〕進⟦□⟧酸蒼鉛一、〇重炭酸曹達二、〇〔韓字 H01 上段〕"
+    },
+    {
+      "unit": "027r10",
+      "frame": 27,
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "before": "子末蜜調勻共梔子殻煎水封入事奉承",
+      "reason": "蜜上兩橫與著筆位置近末，赤、末變化仍待核。",
+      "image_bbox_xywh_approx": [
+        1194,
+        455,
+        93,
+        295
+      ],
+      "candidate": "子赤蜜調勻共梔子殻煎水封入事奉承"
+    },
+    {
+      "frame": 2,
+      "unit_id": "002l01",
+      "image_sha256": "8db8279b4d9d7a70d3d1c156678ea20cef1f9d84518cb492d61795261af7261a",
+      "initial_column": "隆熙二年戊申五月　陽六月",
+      "independent_column": "隆熙二年戊申五月　陽六月",
+      "candidates": [
+        "〔末篆待核〕"
+      ],
+      "image_evidence": "朱印與底格及腹部以下黑墨交疊，僅存部分篆字輪廓。",
+      "bbox_approx_xywh_px": [
+        688,
+        1349,
+        299,
+        298
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 3,
+      "unit_id": "003r02",
+      "image_sha256": "da446afc6f6b6d41147e648c7c90ec306d1044e992835f90d1337c2f5581ce4e",
+      "initial_column": "⟦遞員□／□□□⟧　典醫長徐丙孝典醫李海昌朴準承洪在曄",
+      "independent_column": "監員紗　典醫長徐丙孝典醫李海昌朴準承洪在晦",
+      "candidates": [
+        "遞員□",
+        "監員紗"
+      ],
+      "image_evidence": "員字可辨，上字草頭與下方短橫相接，下字似左右分筆。",
+      "bbox_approx_xywh_px": [
+        1842,
+        413,
+        90,
+        235
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 3,
+      "unit_id": "003l10",
+      "image_sha256": "da446afc6f6b6d41147e648c7c90ec306d1044e992835f90d1337c2f5581ce4e",
+      "initial_column": "還御典醫朴準承隨　駕以厚禄⟦高奎／□□⟧進",
+      "independent_column": "還御典醫朴準承隨　駕以厚禄高套進",
+      "candidates": [
+        "高奎",
+        "高套",
+        "高奬"
+      ],
+      "image_evidence": "末段墨畫壓在背透上，形似大字下又筆或土形。",
+      "bbox_approx_xywh_px": [
+        122,
+        1087,
+        97,
+        465
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 4,
+      "unit_id": "004r03",
+      "image_sha256": "c88874ddc627225e533c997294ef8b92b8c79d17d63e3e3dd330f8efa35e5e26",
+      "initial_column": "十四日入直洪在鶴上午十点李海昌入診",
+      "independent_column": "十四日　入直洪在晦上午十点李海昌　入診",
+      "candidates": [
+        "鶴",
+        "曄",
+        "晦"
+      ],
+      "image_evidence": "末字左右近並立，右下長筆已和前後接筆相疊。003r02 初錄異讀，整冊不統一。",
+      "bbox_approx_xywh_px": [
+        1726,
+        743,
+        100,
+        261
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 5,
+      "unit_id": "005l06",
+      "image_sha256": "437298fc445c507bf819a955006d1db67256ab81b3f0c037b8d38c8e35880e44",
+      "initial_column": "皇后陛下有滯崇風火之氣以加味只术湯一貼即",
+      "independent_column": "皇后陛下有滯崇風火之氣以加味六君湯一貼即",
+      "candidates": [
+        "只术",
+        "枳朮",
+        "六君"
+      ],
+      "image_evidence": "正文附近有同形寫法，首字上框及下筆偏如只，第二字如术，保留底本便寫，不依方名定讀。",
+      "bbox_approx_xywh_px": [
+        453,
+        1124,
+        93,
+        351
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 5,
+      "unit_id": "005r06",
+      "image_sha256": "437298fc445c507bf819a955006d1db67256ab81b3f0c037b8d38c8e35880e44",
+      "initial_column": "二十日連陰雨九点三十分入診脉候調均湯劑續進",
+      "independent_column": "二十日　夜九点三十分入診脉候調均湯剤繼進",
+      "candidates": [
+        "連陰雨",
+        "夜",
+        "雨〔連字疑〕"
+      ],
+      "image_evidence": "正面黑字與透墨相疊，日期後細列兩處需分離。",
+      "bbox_approx_xywh_px": [
+        1488,
+        538,
+        116,
+        241
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 7,
+      "unit_id": "007r02",
+      "image_sha256": "f8a4cc69674178205783599a06831d56d0c65c83bb1405f1ed4d77065a89368a",
+      "initial_column": "查曲茶一次保和湯一貼煎進全仍",
+      "independent_column": "査曲茶一次保和湯一貼煎進　入直仍",
+      "candidates": [
+        "全仍",
+        "入直仍"
+      ],
+      "image_evidence": "倒人形下為數道橫筆，可能是入直合筆。實見仍。",
+      "bbox_approx_xywh_px": [
+        1819,
+        1156,
+        100,
+        283
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 7,
+      "unit_id": "007r03",
+      "image_sha256": "f8a4cc69674178205783599a06831d56d0c65c83bb1405f1ed4d77065a89368a",
+      "initial_column": "二十八日壬朝陽上午七点四十分入診滯祟終未順下故空",
+      "independent_column": "二十八日　上午七点四十分入診滯崇終未順下故空",
+      "candidates": [
+        "壬朝陽",
+        "子朝陽"
+      ],
+      "image_evidence": "朝陽前一字筆小，兩邊碰到正文與透墨。",
+      "bbox_approx_xywh_px": [
+        1731,
+        527,
+        116,
+        171
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 10,
+      "unit_id": "010l01",
+      "image_sha256": "dbcf59a63c37db209189bae876f80992f021024295783064fa03b0a0c38e1319",
+      "initial_column": "上午十二時三十分因侍從院卿指揮同典醫長並為待令",
+      "independent_column": "上午十二時定因侍従院卿指揮同典醫長並為待令",
+      "candidates": [
+        "上午十二時三十分",
+        "上午十二時〔□〕"
+      ],
+      "image_evidence": "粗筆時下連寫，数與分是否獨立須與右側細字分辨。",
+      "bbox_approx_xywh_px": [
+        884,
+        402,
+        76,
+        273
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 11,
+      "unit_id": "011r07",
+      "image_sha256": "4ece80895b3312a077a01ada1e4b298b24031e5b6cd23b158ebf3db58fec7523",
+      "initial_column": "皇上陛下又入診",
+      "independent_column": "皇上陛下夕入診",
+      "candidates": [
+        "又",
+        "夕"
+      ],
+      "image_evidence": "前欄另有入診，本欄同處可能記再次或傍晚。墨形斜出，造成輪廓兩似。",
+      "bbox_approx_xywh_px": [
+        1421,
+        517,
+        90,
+        266
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 11,
+      "unit_id": "011r06",
+      "image_sha256": "4ece80895b3312a077a01ada1e4b298b24031e5b6cd23b158ebf3db58fec7523",
+      "initial_column": "入診",
+      "independent_column": "入診",
+      "candidates": [
+        "〔細字現有未定〕"
+      ],
+      "image_evidence": "細墨環繞聽診及腹部等字，末字過欄，仍待分定。",
+      "bbox_approx_xywh_px": [
+        1445,
+        712,
+        148,
+        891
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 13,
+      "unit_id": "013l05",
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "initial_column": "油〔二五、〇〕重炭酸曹達二、〇〔韓字 H01 上段〕",
+      "independent_column": "油二五、〇七月十〔日〕午前　進撒酸蒼鉛一、〇重炭酸曹達二、〇마가",
+      "candidates": [
+        "硝",
+        "撒",
+        "□"
+      ],
+      "image_evidence": "左部近手旁或石，右部下折與上點接筆，足以定位但無法採定。",
+      "bbox_approx_xywh_px": [
+        549,
+        803,
+        87,
+        205
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 13,
+      "unit_id": "013-h01",
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "initial_column": "마가리아스마례",
+      "independent_column": null,
+      "candidates": [
+        "마가리아스마례",
+        "마가리아스마레",
+        "마가가아스마례"
+      ],
+      "image_evidence": "左側下兩折近 ㄹ，右側長直與短點相接，末字應單獨比較同頁第二列。",
+      "bbox_approx_xywh_px": [
+        466,
+        450,
+        87,
+        326
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 13,
+      "unit_id": "013-h02",
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "initial_column": "마가리아스마례",
+      "independent_column": null,
+      "candidates": [
+        "마례",
+        "마레"
+      ],
+      "image_evidence": "上字褪色但左 ㄹ 關節仍可辨，右側短橫墨與下圓點分離，末字另核。",
+      "bbox_approx_xywh_px": [
+        320,
+        446,
+        89,
+        147
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 15,
+      "unit_id": "015r10",
+      "image_sha256": "1c1fe9851015cd1efd95f6a8d56acc25a3734e0bd90e6a82a31f44608c756a1e",
+      "initial_column": "治右腭舊齒畢了出造齒見樣看護婦舉行",
+      "independent_column": "治右腮舊齒畢了出造齒見樣看護婦手云　舉行",
+      "candidates": [
+        "手云",
+        "即助手云"
+      ],
+      "image_evidence": "大字婦下有數筆右側較小，未定隸屬。",
+      "bbox_approx_xywh_px": [
+        1220,
+        1333,
+        84,
+        273
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 16,
+      "unit_id": "016l04",
+      "image_sha256": "0c222af0bf9bc390819f4a2a0c4583a2aec286156d4bb2b72986b9a6178c177f",
+      "initial_column": "更立一箇金齒空其中如栢子様為其押入左右",
+      "independent_column": "更立一筒金齒空其中如栢子嵌為其椎入左右",
+      "candidates": [
+        "栢子様為其押",
+        "栢子嵌為其椎"
+      ],
+      "image_evidence": "栢子後的字與「為」間距短，草筆山、戊形交疊。",
+      "bbox_approx_xywh_px": [
+        643,
+        947,
+        86,
+        428
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 17,
+      "unit_id": "017l10",
+      "image_sha256": "2fb74d4d29a0ddc57d49c7b66bbbf95d1ad6b539ad6347c16b72cec3b554f616",
+      "initial_column": "十一時点火于藥房而火突出電巡檢適見檢",
+      "independent_column": "十一時点天干剤藥房而突炎出宮四檢適見擡",
+      "candidates": [
+        "火于藥房而火突出電巡檢適見檢",
+        "天干剤藥房而突炎出宮四檢適見擡"
+      ],
+      "image_evidence": "午時後字序有重筆，最後一字左筆和右旁均有擦磨。",
+      "bbox_approx_xywh_px": [
+        143,
+        420,
+        97,
+        1198
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 18,
+      "unit_id": "018l09",
+      "image_sha256": "618e9513712137df4303fc33260189e275e9b859c8de89e0c6cb9aec8f282191",
+      "initial_column": "敎内日前當下失火雖不日至及於他其至内外驚駭",
+      "independent_column": "教内日前當下失火雖不及延及於他其在內外警該",
+      "candidates": [
+        "日至及",
+        "及延及"
+      ],
+      "image_evidence": "此處筆畫接連，中間見兩個及形但與之字形不易分。",
+      "bbox_approx_xywh_px": [
+        231,
+        1079,
+        102,
+        415
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 21,
+      "unit_id": "021r03",
+      "image_sha256": "d8a64e1daf0715be2dd7150ae2b37ad5eaf67c2720cc3f74b3a0f9599cceebb1",
+      "initial_column": "下午四点因有命菱茸茶煎進",
+      "independent_column": "下午四点因有　命萎耳茶煎進",
+      "candidates": [
+        "菱茸",
+        "萎耳",
+        "蔓耳"
+      ],
+      "image_evidence": "首字草頭下分筆，中間長捺；第二字上有短點、下有耳類長筆。",
+      "bbox_approx_xywh_px": [
+        1756,
+        755,
+        97,
+        555
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 22,
+      "unit_id": "022r04",
+      "image_sha256": "5c4780e2be20b83530f04017cb0dccd6006859eaf21126faa4a3f0a457baf912",
+      "initial_column": "皇后陛下以右邊有動挾痰不順故議定加味芩夏湯日",
+      "independent_column": "皇后陛下以右邊肩肘挾痰不順故議定加味芩夏湯日",
+      "candidates": [
+        "有動",
+        "肩肘",
+        "有動〔形待核〕"
+      ],
+      "image_evidence": "右邊後第一字顯露月部，前端交叉筆，第二字右旁有斜形收勾。",
+      "bbox_approx_xywh_px": [
+        1679,
+        648,
+        97,
+        344
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 23,
+      "unit_id": "023l03",
+      "image_sha256": "479801ca6b4de98e2ba407ce80be7e486b1fff1d6e6242b163d288ec95161a1f",
+      "initial_column": "半入診脉候調均湯劑繼進入診洪在鶴",
+      "independent_column": "半入　診脉候調均湯剤繼　進入診洪在晦",
+      "candidates": [
+        "玄麥茶／一碗",
+        "〔細字候〕／同一席"
+      ],
+      "image_evidence": "靠近欄線且較短淡，左側兩行有各自平行的筆向。",
+      "bbox_approx_xywh_px": [
+        696,
+        1412,
+        76,
+        231
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 23,
+      "unit_id": "023l04",
+      "image_sha256": "479801ca6b4de98e2ba407ce80be7e486b1fff1d6e6242b163d288ec95161a1f",
+      "initial_column": "二十六日己酉陽八月二十二日□□□雨霽上午八点半入診",
+      "independent_column": "二十六日己酉陽八月二十二日〔塗墨〕上午八点半入診",
+      "candidates": [
+        "□□□雨霽",
+        "〔重塗未定字數〕"
+      ],
+      "image_evidence": "可見連續三至四團重墨，與日期文字區分。",
+      "bbox_approx_xywh_px": [
+        617,
+        878,
+        112,
+        461
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 23,
+      "unit_id": "023l07",
+      "image_sha256": "479801ca6b4de98e2ba407ce80be7e486b1fff1d6e6242b163d288ec95161a1f",
+      "initial_column": "故仍繼進榮養菱茸二次逍遙君子一貼",
+      "independent_column": "故仍繼進保安湯一貼進遂君子一貼",
+      "candidates": [
+        "榮養菱茸二次逍遙",
+        "保安湯二次進遂",
+        "保安湯一貼進遂"
+      ],
+      "image_evidence": "字串後半正向較清楚，前段筆壓在灰字影上。",
+      "bbox_approx_xywh_px": [
+        382,
+        667,
+        100,
+        908
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 25,
+      "unit_id": "025l07",
+      "image_sha256": "f425bb2dba1e71744b10b49f24073959ec0268fb89f9f94a5fcb560861dbacb4",
+      "initial_column": "皇后陛下諸節仔探則脊膂烘熱之症與□渴小有",
+      "independent_column": "皇后陛下諸節仰探則背膈伏熱之症與口渇小有",
+      "candidates": [
+        "口渴",
+        "□渴"
+      ],
+      "image_evidence": "渴上小框已被濃墨壓實，形界可見但筆數不全。",
+      "bbox_approx_xywh_px": [
+        398,
+        1302,
+        90,
+        286
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 26,
+      "unit_id": "026l07",
+      "image_sha256": "f38a19868a78ce31b26e395e7d398e65971522af60a59f28a6005213fea5d38d",
+      "initial_column": "揷磨⟦典／與⟧舊齒以為上下齊合",
+      "independent_column": "拂處與舊齒以為上下齊合",
+      "candidates": [
+        "揷磨⟦典／與⟧",
+        "拂處與"
+      ],
+      "image_evidence": "多連筆，第三字與與舊齒字形交疊。",
+      "bbox_approx_xywh_px": [
+        401,
+        417,
+        114,
+        579
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "frame": 27,
+      "unit_id": "027l01",
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "initial_column": "始房⟦吏／□⟧修改之後",
+      "independent_column": "始房藥修改之後",
+      "candidates": [
+        "吏",
+        "藥",
+        "□"
+      ],
+      "image_evidence": "短欄中部上字略拋散，中線與藍灰透影相近。",
+      "bbox_approx_xywh_px": [
+        890,
+        431,
+        95,
+        328
+      ],
+      "decision": "unresolved"
+    },
+    {
+      "unit": "036l08",
+      "frame": 36,
+      "image_sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca",
+      "before": "下午九点嚴侍從桂東急々來言曰",
+      "reason": "言下一字為含橫筆的扁框，曰與內的收筆需再核。",
+      "image_bbox_xywh_approx": [
+        323,
+        947,
+        84,
+        273
+      ],
+      "candidate": "下午九点嚴侍從桂東急々來言內"
+    },
+    {
+      "unit": "053l08",
+      "frame": 53,
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "before": "門停車塲直向大邱典醫洪哲普製藥師徐",
+      "reason": "職名草寫連筆，製藥、藥劑尚須區分，先保留初錄。",
+      "image_bbox_xywh_approx": [
+        295,
+        1187,
+        103,
+        356
+      ],
+      "candidate": "門停車塲直向大邱典醫洪哲普藥劑師徐"
+    },
+    {
+      "frame": 28,
+      "unit_id": "028r02",
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "initial_column": "入直洪在鶴醫員金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1844,
+        438,
+        77,
+        673
+      ],
+      "sealed_column": "入直洪在暉醫員金東錫"
+    },
+    {
+      "frame": 28,
+      "unit_id": "028r05",
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "initial_column": "湯加乾薑二錢桂皮一錢香木香七分進一貼之意言告",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1594,
+        438,
+        77,
+        1232
+      ],
+      "sealed_column": "湯乾薑二錢桂皮一錢魯木香七分進一貼之意言告"
+    },
+    {
+      "frame": 28,
+      "unit_id": "028r08",
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "initial_column": "十三日丙寅晴陽九月八日今日萬壽聖節上午八点三十分",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1358,
+        402,
+        77,
+        1268
+      ],
+      "sealed_column": "十三日丙寅晴陽九今日萬壽聖節上午八點三十分"
+    },
+    {
+      "frame": 28,
+      "unit_id": "028l04",
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "initial_column": "十四日丁卯九月九日上午八点三十分洪在鶴入診湯劑",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        647,
+        398,
+        77,
+        1272
+      ],
+      "sealed_column": "十四日丁卯九月九日上午八點三十分洪在暉入診湯劑"
+    },
+    {
+      "frame": 28,
+      "unit_id": "028l08",
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "initial_column": "皇后陛下入診時典醫長徐丙孝典醫李海昌朴",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        333,
+        390,
+        77,
+        1273
+      ],
+      "sealed_column": "皇后陛下入診時典醫長徐丙孝典醫李海昌同朴"
+    },
+    {
+      "frame": 28,
+      "unit_id": "028l10",
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "initial_column": "皇上陛下進御空心湯劑建理湯以前方香砂君子湯改定",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        164,
+        372,
+        77,
+        1298
+      ],
+      "sealed_column": "皇上陛下進御空心湯劑建理湯以前方香砂養胃改逆"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029r01",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "十五日戊辰陽十日晴上午八点三十分入診湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1921,
+        374,
+        77,
+        1273
+      ],
+      "sealed_column": "十五日戊辰陽十上午八點三十分入診湯劑繼進"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029r06",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "普金濬培二員以院卿同為入診",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1519,
+        441,
+        77,
+        853
+      ],
+      "sealed_column": "普金瀅培二員以院卿同為入診"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029r08",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "百骸偶痛等諸節議定湯劑空心四物湯加樞卽",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1350,
+        433,
+        77,
+        1213
+      ],
+      "sealed_column": "百骸俱痛等諸節議定湯劑空心四物湯加橘郎"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029l03",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "水刺後香砂養胃湯梔子末自今日停止奉承",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        730,
+        436,
+        77,
+        1152
+      ],
+      "sealed_column": "水剌後香砂養胃湯橘子味自今日停止奏承"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029l05",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "明成皇后忌辰衛日不遠栗米飮煎進事入稟",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        568,
+        387,
+        77,
+        1153
+      ],
+      "sealed_column": "明成皇后忌辰齋日不遠粟米飲煎進事入稟"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029l06",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "太皇帝陛下進御粟米飮二十日將事後一次煎進事自",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        495,
+        387,
+        77,
+        1282
+      ],
+      "sealed_column": "大皇帝陛下進御粟米飲二十日將事後一次煎進事自"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029l07",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "侍從院電話于承寧府以為入稟",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        418,
+        441,
+        77,
+        853
+      ],
+      "sealed_column": "侍從院電話予承寧府以為入稟"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029l08",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "下午六点因電話菱茸茶煎進○藥丁金興福自退代",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        330,
+        438,
+        77,
+        1231
+      ],
+      "sealed_column": "下午六點因電話萎茸茶煎進〇藥丁金興福自退代"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029l09",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "以舊額申安壽薦修報下午九点自侍從院送言有",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        248,
+        446,
+        77,
+        1223
+      ],
+      "sealed_column": "以旧額中安壽萬修報下午九點自侍從院送言有"
+    },
+    {
+      "frame": 29,
+      "unit_id": "029l10",
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "initial_column": "醫官入侍之令云矣少焉更有大廳電話醫官",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        155,
+        445,
+        77,
+        1152
+      ],
+      "sealed_column": "醫官入待之令云矣少焉更有大廳電話醫官"
+    },
+    {
+      "frame": 30,
+      "unit_id": "030r07",
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "initial_column": "十九日壬申陽九月十四日上午八点半入診脉候調勻而夜半",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1447,
+        373,
+        77,
+        1296
+      ],
+      "sealed_column": "十九日壬申陽九月十四上午八點半入診脈候調匀而夜半"
+    },
+    {
+      "frame": 30,
+      "unit_id": "030r08",
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "initial_column": "每有腹部微痛之症故空心湯劑依前建理湯更",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1366,
+        375,
+        77,
+        1213
+      ],
+      "sealed_column": "每有腹部微痛之症故空心湯劑依前建理而更"
+    },
+    {
+      "frame": 30,
+      "unit_id": "030l02",
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "initial_column": "二十日癸酉陽九十五日上午九点徐丙孝入診空心湯劑建理湯",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        812,
+        386,
+        77,
+        1283
+      ],
+      "sealed_column": "二十日癸酉陽九上午九點徐丙孝入診空心湯劑建理湯"
+    },
+    {
+      "frame": 30,
+      "unit_id": "030l05",
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "initial_column": "太皇帝陛下皇后陛下臨御戴德堂望哭進粟米",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        567,
+        382,
+        77,
+        1212
+      ],
+      "sealed_column": "大皇帝陛下皇后陛下臨御載德堂望哭進粟米"
+    },
+    {
+      "frame": 30,
+      "unit_id": "030l07",
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "initial_column": "入直洪在鶴醫員金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        412,
+        442,
+        77,
+        673
+      ],
+      "sealed_column": "入直洪在暉醫員金東錫"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031r01",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "二十二日乙亥陽九十七日上午九点三十分洪在鶴入診湯劑繼",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1919,
+        383,
+        77,
+        1284
+      ],
+      "sealed_column": "二十二日乙亥陽九上午九點三十分洪在暉入診湯劑繼"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031r05",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "皇上陛下諸節以滯祟腹部微痛有下敎水刺後湯劑以",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1592,
+        384,
+        77,
+        1283
+      ],
+      "sealed_column": "皇上陛下諸節以滯素腹部微痛有下敎水剌後湯劑以"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031r06",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "加味平陳湯改定下午一点齒科醫飯塚徹朴宗桓",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1513,
+        435,
+        76,
+        1232
+      ],
+      "sealed_column": "加味平陳湯改定下午一點西洋科醫飯塚徹朴宗桓"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031r07",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "入侍御齒右邊下牙齒一箇拔去仍進漱口水上下齒",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1431,
+        435,
+        76,
+        1232
+      ],
+      "sealed_column": "入侍御齒右邊下牙齒一齒拔去仍進漱口水上下齒"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031r08",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "牙拔出凡七箇而六箇已為假齒納入一箇幾日後納入云",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1353,
+        441,
+        76,
+        1226
+      ],
+      "sealed_column": "牙拔出凡七齒而六齒已為假齒納入一齒幾日後納入云"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031l02",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "徐丙孝以皇后陛下諸節之尚無減度爛加商議為",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        803,
+        441,
+        77,
+        1226
+      ],
+      "sealed_column": "徐丙孝以下皇后陛下諸節之尚無減度爛加商議為"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031l03",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "敎下午三点因電話入直入去則院卿傳語",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        721,
+        436,
+        77,
+        1091
+      ],
+      "sealed_column": "敎下午二點因電話入直入去則院卿傳語"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031l05",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "後幾時進御水刺而今則比朝少減間或行步猶有餘怏",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        561,
+        437,
+        77,
+        1230
+      ],
+      "sealed_column": "後幾時進御水剌而今則比朝少減間或行步猶有餘快"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031l06",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "之候云此必泥滯為眩故午湯劑平胃散置之以加味二陳",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        480,
+        440,
+        77,
+        1227
+      ],
+      "sealed_column": "之候云此必泥滯為歟故午湯劑平胃散置之以加味平陳"
+    },
+    {
+      "frame": 31,
+      "unit_id": "031l10",
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "initial_column": "今日誕辰也故湯劑停止是日夜雨而晴",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        154,
+        449,
+        76,
+        1031
+      ],
+      "sealed_column": "今日誕辰也故湯劑停止是日終雨而晴"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032r04",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "劑繼進入直洪在鶴醫員金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1678,
+        498,
+        77,
+        853
+      ],
+      "sealed_column": "劑繼進入直洪在暉醫員金東錫"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032r06",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "拔去齒痕腐姑未堅完只點藥水傳止磨削小頃",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1519,
+        494,
+        77,
+        1175
+      ],
+      "sealed_column": "拔去齒痕處姑未堅完只點藥水停止磨削小頃"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032r08",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "下午二点因院卿知委典醫長徐丙孝典醫洪在鶴",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1365,
+        498,
+        77,
+        1171
+      ],
+      "sealed_column": "下午二點因院卿知委典醫長徐丙孝典醫洪在暉"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032r09",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "承寧府典醫洪哲普金濬培並入診于",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1286,
+        499,
+        77,
+        973
+      ],
+      "sealed_column": "承寧府典醫洪哲普金瀅培並入診于"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032r10",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "皇后陛下症候間有眩氣之不順下腹微脹痛故議定",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1189,
+        378,
+        77,
+        1291
+      ],
+      "sealed_column": "皇后陛下症候間有眩氣々不順下腹微脹痛故議定"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032l03",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "頒下上二十四日所出",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        728,
+        424,
+        77,
+        553
+      ],
+      "sealed_column": "頒下上午四日雨出"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032l06",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "二十八日辛巳陽九月二十三日上午八点四十分洪在鶴入診湯劑繼",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        484,
+        373,
+        77,
+        1296
+      ],
+      "sealed_column": "二十八日辛巳陽九月二十三日上午八點四十分洪在暉入診湯劑繼"
+    },
+    {
+      "frame": 32,
+      "unit_id": "032l07",
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "initial_column": "進而暑有感候平陳湯只加藿葉五分進御之意仰稟",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        412,
+        421,
+        77,
+        1248
+      ],
+      "sealed_column": "進而略有感候平陳湯只加蘇葉五分進御之意仰稟"
+    },
+    {
+      "frame": 33,
+      "unit_id": "033r04",
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "initial_column": "九月初一日癸未陽九月二十五日十点入診湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1684,
+        368,
+        77,
+        1300
+      ],
+      "sealed_column": "九月初一日癸未陽九月廿五日上午十點入診湯劑繼進"
+    },
+    {
+      "frame": 33,
+      "unit_id": "033r07",
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "initial_column": "皇后陛下進御八味順氣散封進矣下午三点因電話還下更煎",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1430,
+        368,
+        77,
+        1300
+      ],
+      "sealed_column": "皇后陛下進御八味順氣散封進矣下午三點因電話票下更煎"
+    },
+    {
+      "frame": 33,
+      "unit_id": "033r10",
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "initial_column": "繼進而平陳湯中去藿葉加入者上午十一点日",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1190,
+        422,
+        77,
+        1246
+      ],
+      "sealed_column": "繼進而平陳湯中去蘇葉加入者上午十一點日本"
+    },
+    {
+      "frame": 33,
+      "unit_id": "033l06",
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "initial_column": "上午九点三十分入診諸節泰平湯劑復議定",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        484,
+        425,
+        77,
+        1152
+      ],
+      "sealed_column": "上午九點二十分入診諸節泰平湯劑更議定"
+    },
+    {
+      "frame": 33,
+      "unit_id": "033l07",
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "initial_column": "空心香砂君子湯水刺後平陳仍進朴準承入",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        404,
+        426,
+        77,
+        1212
+      ],
+      "sealed_column": "空心香砂君子湯水剌後平陳湯進朴準承入診"
+    },
+    {
+      "frame": 33,
+      "unit_id": "033l09",
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "initial_column": "湯劑繼進□張尚宮仰問",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        244,
+        437,
+        77,
+        672
+      ],
+      "sealed_column": "湯劑繼進因張尚宮仰聞"
+    },
+    {
+      "frame": 33,
+      "unit_id": "033l10",
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "initial_column": "皇后陛下諸節則別無動靜手足掌心熱□",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        154,
+        378,
+        77,
+        1032
+      ],
+      "sealed_column": "皇后陛下諸節別無動靜手足掌心熱□"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034r01",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "口燥舌乾一向如前命下矣湯劑前方八味順氣散",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1938,
+        434,
+        77,
+        971
+      ],
+      "sealed_column": "口燥舌乾一向如前命下矣湯劑前方"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034r05",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "入直洪在鶴醫員金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1599,
+        422,
+        77,
+        672
+      ],
+      "sealed_column": "入直洪在暉醫員金東錫"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034r08",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "入直仍而醫員李康年",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1366,
+        431,
+        77,
+        911
+      ],
+      "sealed_column": "入直仍而醫員李康年有病未進金"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034r09",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "下午二点典醫長及洪在鶴帶同齒醫入侍納造齒于",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1280,
+        432,
+        77,
+        1234
+      ],
+      "sealed_column": "下午二點典醫長及洪在暉帶同齒醫入侍納造齒于"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034l01",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "初七日戊子陽十月一日上午八点三十分洪在鶴入診脉候調均湯",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        893,
+        366,
+        77,
+        1300
+      ],
+      "sealed_column": "初七日戊子陽十月一日上午八點三十分洪在暉入診脈候調均湯"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034l05",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "初八日庚寅陽十月二日晴入直仍醫員金東錫上午四点入診諸節",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        563,
+        374,
+        76,
+        1292
+      ],
+      "sealed_column": "初八日庚寅陽十月二日入直仍醫員金東錫上午四點入診諸節"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034l06",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "太平上午八点三十分動駕水原陪從建陵東",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        481,
+        422,
+        76,
+        1091
+      ],
+      "sealed_column": "泰平上午六點三十分動駕水原隆健陵乘"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034l07",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "御鐵路車侍從醫官同禮式官並侍衛典醫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        401,
+        426,
+        77,
+        1240
+      ],
+      "sealed_column": "御鐵路車侍從禮隊隨同禮式官並侍衛典醫□□"
+    },
+    {
+      "frame": 34,
+      "unit_id": "034l09",
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "initial_column": "初九日辛卯陽十月三日晴上午九点入診諸節泰平湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        244,
+        370,
+        76,
+        1296
+      ],
+      "sealed_column": "初九日辛卯陽十月上午九點入診諸節泰平湯劑繼進"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035r02",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "下午七点因電話查曲茶煎進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1846,
+        425,
+        77,
+        794
+      ],
+      "sealed_column": "下午七點因電話查肉茶煎進"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035r03",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "翌日壬辰陽十月四日晴上午八点入診湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1761,
+        367,
+        77,
+        1213
+      ],
+      "sealed_column": "翌日壬辰陽十月四日上午八點入診湯劑繼進"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035r04",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "入直朴準承金東錫下午七点因侍從傳語查曲",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1679,
+        425,
+        77,
+        1214
+      ],
+      "sealed_column": "入直朴準承金東錫下午七點因侍從傳語查肉"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035r06",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "十一日癸巳陽十月五日上午八点入診諸節泰平湯劑繼進内醫湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1519,
+        367,
+        77,
+        1303
+      ],
+      "sealed_column": "十一日癸巳陽十月五日上午八點入診湯劑繼進內殿湯劑繼進"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035r07",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "入直徐丙孝李康年□醫入診齒科告畢",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1435,
+        422,
+        77,
+        1033
+      ],
+      "sealed_column": "入直徐丙孝李康年典醫入診齒科告畢"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035r10",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "十三日乙未陽十月七日上午八点五十分入診諸節泰平湯劑繼",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1189,
+        373,
+        77,
+        1297
+      ],
+      "sealed_column": "十三日乙未陽十月七日上午八點五十分入診諸節泰平湯劑"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035l01",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "繼進是日上午十一点以覲行次動駕于德壽宮下午",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        898,
+        419,
+        77,
+        1251
+      ],
+      "sealed_column": "繼進是日上午十一點以觀行治動駕于德壽宮下午"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035l03",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "入直洪在鶴醫員李康年",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        728,
+        422,
+        77,
+        673
+      ],
+      "sealed_column": "入直洪在暉醫員李康年"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035l07",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "承洪在鶴承寧府典醫洪哲普並待令而入診因感患",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        403,
+        420,
+        77,
+        1250
+      ],
+      "sealed_column": "承洪在暉承寧府典醫洪哲普並待令而入診因感患"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035l08",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "咳止只以加味參蘇飮三貼議定仰稟而出",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        322,
+        422,
+        77,
+        1093
+      ],
+      "sealed_column": "痰止只以加味參蘇飲三貼議定仰稟而出"
+    },
+    {
+      "frame": 35,
+      "unit_id": "035l09",
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "initial_column": "太皇帝陛下進御空心湯劑以歸茸君子湯議定",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        239,
+        364,
+        77,
+        1214
+      ],
+      "sealed_column": "大皇帝陛下進御空心湯劑以歸茸君子湯議定"
+    },
+    {
+      "frame": 36,
+      "unit_id": "036r06",
+      "image_sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca",
+      "initial_column": "十七日己亥陽十月十一日上午九点三十分入診諸節泰平湯劑繼",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1515,
+        364,
+        77,
+        1306
+      ],
+      "sealed_column": "十七日己亥陽十月十一日晴上午九點三十分入診諸節泰平湯劑繼"
+    },
+    {
+      "frame": 36,
+      "unit_id": "036l01",
+      "image_sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca",
+      "initial_column": "進入直洪在鶴醫員李康年",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        886,
+        428,
+        76,
+        733
+      ],
+      "sealed_column": "進入直洪在暉醫員李康年"
+    },
+    {
+      "frame": 36,
+      "unit_id": "036l05",
+      "image_sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca",
+      "initial_column": "下午三点典醫長徐丙孝典醫李海昌朴準承洪在鶴",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        566,
+        424,
+        77,
+        1246
+      ],
+      "sealed_column": "下午三點典醫長徐丙孝典醫李海昌朴準承洪在暉"
+    },
+    {
+      "frame": 36,
+      "unit_id": "036l06",
+      "image_sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca",
+      "initial_column": "承寧府典醫金濬培洪哲普並入診",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        484,
+        429,
+        77,
+        913
+      ],
+      "sealed_column": "承寧府典醫金瀅培洪哲普並入診"
+    },
+    {
+      "frame": 36,
+      "unit_id": "036l10",
+      "image_sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca",
+      "initial_column": "養胃湯加山査二錢香附一錢半砂仁一錢藿葉七分煎",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        160,
+        415,
+        77,
+        1255
+      ],
+      "sealed_column": "養胃湯加山査二錢香附一錢半砂仁一錢蘇葉七分煎"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037r02",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "二十一日癸卯陽十月十五日上午十点二十分洪在鶴入診脉候調",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1844,
+        362,
+        77,
+        1306
+      ],
+      "sealed_column": "廿一日癸卯陽十月十五日上午十點二十分洪在暉入診脈候調"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037r06",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "典醫通同輪回入直之意有敎",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1516,
+        425,
+        77,
+        792
+      ],
+      "sealed_column": "典醫通同輪回入直之言有敎"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037r07",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "二十二日甲辰陽十月十六日晴入直仍醫員金東錫上午八点二十分入",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1434,
+        360,
+        77,
+        1308
+      ],
+      "sealed_column": "二十二日甲辰陽十月十六日入直仍醫員金東錫上午八點二十分入"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037l01",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "皇后陛下以滯祟氣塞故急入診後以查陳湯調財",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        895,
+        380,
+        77,
+        1272
+      ],
+      "sealed_column": "皇后陛下以滯祟氣塞故急入診後以査陳湯調麝"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037l02",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "香一分式連進二貼則滯祟卽下仍以寢所",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        811,
+        426,
+        77,
+        1092
+      ],
+      "sealed_column": "香一分式連進二貼則滯祟即下仍以燥劑"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037l05",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "皇后陛下諸節脅部腹又有微痛之候故空心又進查陳",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        565,
+        386,
+        77,
+        1282
+      ],
+      "sealed_column": "皇后陛下諸節胸部腹又有微痛之候故空心又進査陳"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037l06",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "湯調財香等貼水刺後香砂養胃湯一貼進下午点差",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        483,
+        433,
+        77,
+        1235
+      ],
+      "sealed_column": "湯調麝香一分水剌後香砂養胃湯一貼進下午六點"
+    },
+    {
+      "frame": 37,
+      "unit_id": "037l07",
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "initial_column": "有起命入侍則侍從言内",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        401,
+        443,
+        77,
+        672
+      ],
+      "sealed_column": "有招命入侍則侍從言內"
+    },
+    {
+      "frame": 38,
+      "unit_id": "038r02",
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "initial_column": "入直洪在鶴醫員李康年",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1842,
+        443,
+        77,
+        673
+      ],
+      "sealed_column": "入直洪在暉醫員李康年"
+    },
+    {
+      "frame": 38,
+      "unit_id": "038r04",
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "initial_column": "司有銀昇銀器請求照會故與典醫長偕往本",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1674,
+        441,
+        77,
+        1152
+      ],
+      "sealed_column": "司有銀鼻銀器請求照會故與典醫長偕往於"
+    },
+    {
+      "frame": 38,
+      "unit_id": "038r05",
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "initial_column": "院備言内評則副卿言内該照會繳送於會計",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1594,
+        443,
+        77,
+        1152
+      ],
+      "sealed_column": "院備言內坪則副卿言內該照會繳送於會計"
+    },
+    {
+      "frame": 38,
+      "unit_id": "038r08",
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "initial_column": "煎進加味六君子湯姑且停止之意言告院卿丈",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1358,
+        439,
+        77,
+        1152
+      ],
+      "sealed_column": "煎加味六君子湯姑此停止之意言告院卿丈"
+    },
+    {
+      "frame": 38,
+      "unit_id": "038l02",
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "initial_column": "太皇帝陛下大皇帝陛下親電于日本且皇族諸氏",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        808,
+        373,
+        77,
+        1272
+      ],
+      "sealed_column": "大皇帝陛下大皇帝陛下親電于日本且皇族諸氏"
+    },
+    {
+      "frame": 38,
+      "unit_id": "038l06",
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "initial_column": "二十七日己酉陽十月二十一日上午九点三十分洪在鶴入診脉候",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        481,
+        378,
+        77,
+        1290
+      ],
+      "sealed_column": "二十七日己酉陽十月二十一日上午九點三十分洪在暉入診脈候"
+    },
+    {
+      "frame": 38,
+      "unit_id": "038l10",
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "initial_column": "太皇帝陛下又煎人參粟米飮二器進上",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        156,
+        377,
+        77,
+        1032
+      ],
+      "sealed_column": "大皇帝陛下又煎人參粟米飲二器進上"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039r02",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "慶善宮兩闕供進徐丙孝",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1853,
+        369,
+        77,
+        674
+      ],
+      "sealed_column": "慶善宮兩闕儘進徐丙孝"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039r05",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "兩闕供進徐丙孝入直仍醫員金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1596,
+        414,
+        77,
+        973
+      ],
+      "sealed_column": "兩闕儘進徐丙孝入直仍醫員金東錫"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039r06",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "二十九日辛亥陽十月二十三日上午九点入診諸節泰平湯劑繼進金尚",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1516,
+        365,
+        77,
+        1305
+      ],
+      "sealed_column": "二十九日辛亥陽十月二十三日上午九點入診諸節泰平湯劑繼進全尚"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039r07",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "宮自内出□傳",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1433,
+        431,
+        77,
+        433
+      ],
+      "sealed_column": "宮自內出□傳"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039r08",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "皇后陛下命今日加味君子湯還下更進消導之劑故空心",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1357,
+        368,
+        77,
+        1302
+      ],
+      "sealed_column": "皇后陛下命今日加味君子湯置下更進消導之劑故空心"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039r09",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "湯劑還下水刺後繼進香砂養胃湯加香附子一錢",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1279,
+        420,
+        77,
+        1250
+      ],
+      "sealed_column": "湯劑還下水剌後繼進香砂養胃湯加香附五分磨"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039l01",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "三十日壬子陽二十四日晴入直仍上午八点四十分入診",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        886,
+        368,
+        77,
+        1302
+      ],
+      "sealed_column": "三十日壬子陽十月二十四日晴入直仍上午八點四十分入診"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039l04",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "繼進△典醫長及洪在鶴朴宗桓往參大韓醫院宴會",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        643,
+        423,
+        77,
+        1247
+      ],
+      "sealed_column": "繼進〇典醫長及洪在暉朴宗桓進參大韓醫院宴會"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039l05",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "十月初一日癸丑陽十月二十五日上午九点入診脉候調勻湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        562,
+        288,
+        77,
+        1382
+      ],
+      "sealed_column": "十月初一日癸丑陽十月二十五日晴上午九點入診脈候調勻湯劑繼進"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039l06",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "入直洪在鶴李康老",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        475,
+        419,
+        77,
+        553
+      ],
+      "sealed_column": "入直洪在暉李康老"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039l07",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "初二日甲寅陽十月二十六日微雨入直仍而醫員金東錫上午九点二",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        398,
+        344,
+        77,
+        1326
+      ],
+      "sealed_column": "初二日甲寅陽十月二十六日入直仍而醫員金東錫上午九點二"
+    },
+    {
+      "frame": 39,
+      "unit_id": "039l09",
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "initial_column": "初三日乙卯晴陽十月二十七日上午九点五十五分洪在鶴入診脉候",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        231,
+        369,
+        77,
+        1301
+      ],
+      "sealed_column": "初三日乙卯晴陽十月二十七日上午九點五十五分洪在暉入診脈候"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040r04",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "皇后陛下水刺後湯劑以香砂養胃湯繼進事",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1685,
+        387,
+        77,
+        1285
+      ],
+      "sealed_column": "皇后陛下水剌後湯劑仍以香砂養胃湯因為繼進事"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040r09",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "七日己未陽十月三十一日晴上午九点二十分入診脉候調勻中有微感",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1282,
+        364,
+        77,
+        1308
+      ],
+      "sealed_column": "七日己未陽十一月一日晴上午九點二十分入診脈候調勻中有微感"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040r10",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "之節咽喉不便為敎故臨卧必用方甘吉湯加犀",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1195,
+        422,
+        77,
+        1215
+      ],
+      "sealed_column": "之節咽喉不便為敎故臨卧必用方甘吉湯加干"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l02",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "入直洪在鶴醫員李康老",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        811,
+        418,
+        77,
+        674
+      ],
+      "sealed_column": "入直洪在暉醫員李康老"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l03",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "初八日庚申陽十一月一日入直仍而醫員金東錫上午八点五十分",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        726,
+        367,
+        77,
+        1305
+      ],
+      "sealed_column": "初八日庚申陽十一月二日入直仍而醫員金東錫上午八點五十八分"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l05",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "陳湯停止以昨進甘吉湯一貼進御○下午四点",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        562,
+        424,
+        77,
+        1215
+      ],
+      "sealed_column": "陳湯停止以昨進甘吉湯一貼進御〇下午四點"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l06",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "侍從補金東洙奉命來傳曰",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        482,
+        426,
+        77,
+        734
+      ],
+      "sealed_column": "侍從榊金東洙奉命來傳曰"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l07",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "太皇帝陛下下敎内外感便甚咽痛之症尚未快以",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        400,
+        368,
+        77,
+        1275
+      ],
+      "sealed_column": "大皇帝陛下下敎內外感便甚咽痛之症尚未快以"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l08",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "發表之材更定方文煎進矣故以參蘇飮加升麻",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        323,
+        413,
+        77,
+        1154
+      ],
+      "sealed_column": "發表之材更定方煎進矣故以參蘇飲加平方"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l09",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "子七分半臨卧一貼進御之意轉稟○",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        235,
+        421,
+        77,
+        914
+      ],
+      "sealed_column": "予七分半臨臥一貼進御之意轉稟"
+    },
+    {
+      "frame": 40,
+      "unit_id": "040l10",
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "initial_column": "九日辛酉陽十一月二日上午八点入診諸節有咽喉症候依回進甘",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        151,
+        370,
+        78,
+        1302
+      ],
+      "sealed_column": "九日辛酉陽十一月三日上午八點入診諸節兩咽喉症候仍因進甘"
+    },
+    {
+      "frame": 41,
+      "unit_id": "041r01",
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "initial_column": "吉而臨卧甘桔湯入直徐丙孝李康老",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1938,
+        412,
+        77,
+        974
+      ],
+      "sealed_column": "吉湯臨卧辛凉分入直徐丙孝李康老"
+    },
+    {
+      "frame": 41,
+      "unit_id": "041r05",
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "initial_column": "十一日癸亥陽十一月四日入直仍醫員李康老上午九点二十分入診",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1599,
+        366,
+        77,
+        1306
+      ],
+      "sealed_column": "十一日癸亥陽十一月四日入直仍醫員李康老上午九點一分入診"
+    },
+    {
+      "frame": 41,
+      "unit_id": "041r06",
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "initial_column": "諸節泰平仍□繼進下午八点有召命入侍",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1525,
+        418,
+        77,
+        1095
+      ],
+      "sealed_column": "諸節泰平湯劑繼進下午八點有召命入侍"
+    },
+    {
+      "frame": 41,
+      "unit_id": "041l06",
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "initial_column": "德壽宮宮殿門票典醫長一員典醫四員合五度來到",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        483,
+        422,
+        78,
+        1250
+      ],
+      "sealed_column": "德壽宮宮殿內典醫長一員典醫四員合五度來到"
+    },
+    {
+      "frame": 41,
+      "unit_id": "041l09",
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "initial_column": "可循例舉行故俟侍從院轉稟則脅腹部尚有",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        242,
+        413,
+        77,
+        1155
+      ],
+      "sealed_column": "可循例舉行故徑侍從院轉稟則胃腹部尚有"
+    },
+    {
+      "frame": 42,
+      "unit_id": "042r02",
+      "image_sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c",
+      "initial_column": "曲半夏蘿蔔子各一錢砂仁七分木香五分草果加二",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1844,
+        418,
+        77,
+        1252
+      ],
+      "sealed_column": "曲六常蘿蔔子各一錢砂仁七分木香五分草果加二"
+    },
+    {
+      "frame": 42,
+      "unit_id": "042r04",
+      "image_sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c",
+      "initial_column": "十三日乙丑陽十一月六日晴而溫入直朴準承李康老上午九点入診",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1674,
+        363,
+        77,
+        1307
+      ],
+      "sealed_column": "十三日乙丑陽十一月六日入直朴準承李康老上午九點入診"
+    },
+    {
+      "frame": 42,
+      "unit_id": "042l02",
+      "image_sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c",
+      "initial_column": "下詢兩闕入直如何揀定徐丙孝李海昌不為輪回",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        808,
+        365,
+        77,
+        1274
+      ],
+      "sealed_column": "下詢兩闕入直如何擇定徐丙孝李海昌不為輪回"
+    },
+    {
+      "frame": 42,
+      "unit_id": "042l03",
+      "image_sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c",
+      "initial_column": "等仰對以昌德宮入直為六人則每月五六三十",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        732,
+        429,
+        77,
+        1241
+      ],
+      "sealed_column": "云等仰對以昌德宮入直為六人則每月五六三十"
+    },
+    {
+      "frame": 42,
+      "unit_id": "042l05",
+      "image_sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c",
+      "initial_column": "每人為七八日而番次雖如此然或有身病實員故則",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        565,
+        425,
+        77,
+        1245
+      ],
+      "sealed_column": "每人為七八日而番次雖如此然或有身病實故則"
+    },
+    {
+      "frame": 42,
+      "unit_id": "042l10",
+      "image_sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c",
+      "initial_column": "藿葉只角思參水刺後臨卧進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        154,
+        420,
+        77,
+        794
+      ],
+      "sealed_column": "藿葉只角思令水剌後臨卧進"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043r01",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "十六日戊辰陽十一月九日晴上午九点二十分入診脉候調勻感候豁然",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1972,
+        353,
+        76,
+        1312
+      ],
+      "sealed_column": "十六日戊辰陽十一月九日晴上午九點二十分入診脈候調勻感候漸減"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043r02",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "水刺後正氣散一貼又進之意仰奏",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1887,
+        406,
+        77,
+        911
+      ],
+      "sealed_column": "水剌後四氣散一貼又進之意仰達"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043r03",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "入直金濬培金東錫因大廳電話下午七点",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1792,
+        401,
+        77,
+        1090
+      ],
+      "sealed_column": "入直金瀅培金東錫因大廳電話下午七點"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043r05",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "十七日己巳陽十一月十日陰而雪上午九点三十分入診湯劑繼進改達",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1637,
+        363,
+        77,
+        1302
+      ],
+      "sealed_column": "十七日己巳陽十一月十日陰而雪上午九點半入診湯劑繼進仰達"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043r08",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "十八日庚午陽十一月十一日晴上午十点入診諸節泰平湯劑繼",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1393,
+        369,
+        77,
+        1296
+      ],
+      "sealed_column": "十八日庚午陽十一月上午十點入診諸節泰平湯劑繼"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043r09",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "進水刺後平陳仍進入直徐丙孝醫員金東",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1311,
+        422,
+        77,
+        1090
+      ],
+      "sealed_column": "進水剌後平陳湯進入直徐丙孝醫員金東"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043l01",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "皇后陛下諸節則泰平湯劑仍以空心香砂養",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        926,
+        381,
+        77,
+        1150
+      ],
+      "sealed_column": "皇后陛下諸節別泰平湯劑仍以空心香砂養"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043l02",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "胃湯水刺後溫平湯進下午八点以電話更",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        843,
+        440,
+        77,
+        1090
+      ],
+      "sealed_column": "胃湯水剌後溫平湯進下午八點以電話及"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043l04",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "十九日辛未陽十一月十二日入直仍醫員李康老上午九点十分入診脉候調均",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        674,
+        367,
+        76,
+        1298
+      ],
+      "sealed_column": "十九日辛未陽十一月十二日入直仍醫李康老上午九點十分入診脈候調均"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043l06",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "皇后陛下空心香砂養胃湯水刺後臨卧溫平湯等進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        512,
+        358,
+        77,
+        1270
+      ],
+      "sealed_column": "皇后陛下空心香砂養胃湯水剌後臨卧溫平湯更"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043l07",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "二十日壬申陽十一月十三日小雪朝陰上午九点入診脉候調勻湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        428,
+        359,
+        77,
+        1306
+      ],
+      "sealed_column": "二十日壬申陽十一月十三日朝陰上午九點入診脈候調勻湯劑繼進"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043l08",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "皇后陛下空心湯劑繼進水刺後溫平湯臨卧仍",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        345,
+        362,
+        76,
+        1210
+      ],
+      "sealed_column": "皇后陛下空心湯劑繼進水剌後溫平湯臨卧以"
+    },
+    {
+      "frame": 43,
+      "unit_id": "043l09",
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "initial_column": "感候電話金氣正氣散進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        261,
+        407,
+        77,
+        672
+      ],
+      "sealed_column": "感候電話香蘇正氣散進"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044r04",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "下午二点侍從卿以感候頗重之意為敎頭痛肢",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1721,
+        417,
+        77,
+        1210
+      ],
+      "sealed_column": "下午一點侍從卿以感候欲退之意為敎頭痛肢"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044r07",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "二十二日甲戌陽十一月十五日晴上午八点半分入診脉候調勻湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1481,
+        364,
+        76,
+        1300
+      ],
+      "sealed_column": "二十二日甲戌陽十一月十五日上午八點半分入診脈候調勻湯劑繼進"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044r09",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "入直洪哲普李康老兩闕典醫輪回入直為定後洪丈始入",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1313,
+        421,
+        77,
+        1243
+      ],
+      "sealed_column": "入直洪哲普李康老兩闕典醫輪回入直為定後洪哲始入"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044l03",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "皇后陛下諸節因于内官所傳腹部微痛引",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        734,
+        356,
+        77,
+        1090
+      ],
+      "sealed_column": "皇后陛下諸節因于內官所傳腹部快痛引"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044l04",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "胳痛水刺不能善進云故香砂養胃湯日",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        656,
+        423,
+        77,
+        1029
+      ],
+      "sealed_column": "股痛水剌不能善進云故香砂養胃湯日"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044l08",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "下午四点因電話入診皇后陛下諸節脉候",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        334,
+        426,
+        77,
+        1210
+      ],
+      "sealed_column": "下午四點十分因電話入診皇后陛下諸節脈候"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044l09",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "兩關沈緊心下有瓜子樣堅硬引痛略有寒",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        251,
+        434,
+        77,
+        1090
+      ],
+      "sealed_column": "兩關沉緊心下有瓜子樣堅硬引痛略有寒"
+    },
+    {
+      "frame": 44,
+      "unit_id": "044l10",
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "initial_column": "熱頭痛等症候的見痰滯硏留火挾外感",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        164,
+        437,
+        76,
+        1030
+      ],
+      "sealed_column": "熱頭痛等症候的呈痰滯稍留火挾外感"
+    },
+    {
+      "frame": 45,
+      "unit_id": "045r06",
+      "image_sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3",
+      "initial_column": "二十五日丁丑陽十一月十八是日誓告日故各部休暇上午九点十",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1551,
+        362,
+        77,
+        1300
+      ],
+      "sealed_column": "二十五日丁丑陽十一月十八日是日誓告日故各部休暇上午九點十"
+    },
+    {
+      "frame": 45,
+      "unit_id": "045r09",
+      "image_sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3",
+      "initial_column": "二十六日戊寅陽十一月十九上午九点入診諸節泰平湯劑",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1309,
+        370,
+        76,
+        1292
+      ],
+      "sealed_column": "二十六日戊寅陽十一月十九日上午九點入診諸節泰平湯劑"
+    },
+    {
+      "frame": 45,
+      "unit_id": "045l01",
+      "image_sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3",
+      "initial_column": "皇后陛下水刺後臨卧以泰平陳湯肉桂議定",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        933,
+        352,
+        77,
+        1148
+      ],
+      "sealed_column": "皇后陛下水剌後臨卧皆泰平陽勻看因稟定"
+    },
+    {
+      "frame": 45,
+      "unit_id": "045l02",
+      "image_sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3",
+      "initial_column": "二十七日己卯陽十一月二十日陰入直仍醫員金東錫上午八点十五分",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        844,
+        357,
+        76,
+        1305
+      ],
+      "sealed_column": "二十七日己卯陽十一月二十日入直仍醫員金東錫上午八點十五分"
+    },
+    {
+      "frame": 45,
+      "unit_id": "045l05",
+      "image_sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3",
+      "initial_column": "入直洪在鶴醫員李康老",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        592,
+        425,
+        77,
+        670
+      ],
+      "sealed_column": "入直洪在暉醫員李康老"
+    },
+    {
+      "frame": 45,
+      "unit_id": "045l08",
+      "image_sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3",
+      "initial_column": "皇后陛下諸節稍有差度云故更以烏藥平陳湯十",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        345,
+        356,
+        77,
+        1267
+      ],
+      "sealed_column": "皇后陛下諸節稍有差度云故更以烏藥平陳湯一"
+    },
+    {
+      "frame": 46,
+      "unit_id": "046r02",
+      "image_sha256": "7b0044564db5fff69c56da03b59bae1414ee6bbd2e65a3b33315e6396e7edb48",
+      "initial_column": "三十日壬午陽十一月二十三日上午九点洪在鶴入診脉候調均",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1883,
+        362,
+        77,
+        1300
+      ],
+      "sealed_column": "三十日壬午陽十一月二十三日上午九點洪在暉入診脈候調均"
+    },
+    {
+      "frame": 46,
+      "unit_id": "046r07",
+      "image_sha256": "7b0044564db5fff69c56da03b59bae1414ee6bbd2e65a3b33315e6396e7edb48",
+      "initial_column": "大内侍從卿令傳内不必入診招女官仰問入直仍",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1472,
+        436,
+        76,
+        1226
+      ],
+      "sealed_column": "大內侍從卿分付內云欲入診招女官仔問入直仍"
+    },
+    {
+      "frame": 46,
+      "unit_id": "046r08",
+      "image_sha256": "7b0044564db5fff69c56da03b59bae1414ee6bbd2e65a3b33315e6396e7edb48",
+      "initial_column": "皇后陛下證候湯劑改定云故招女官詳探證候湯劑以君",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1392,
+        358,
+        77,
+        1304
+      ],
+      "sealed_column": "皇后陛下諸候湯劑改定云故招女官詳探證候湯劑以君"
+    },
+    {
+      "frame": 46,
+      "unit_id": "046l07",
+      "image_sha256": "7b0044564db5fff69c56da03b59bae1414ee6bbd2e65a3b33315e6396e7edb48",
+      "initial_column": "而微有感候咽喉不平以忍葛正氣散臨卧進改定",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        421,
+        412,
+        76,
+        1250
+      ],
+      "sealed_column": "而微有感候咽喉不平以忍冬葛正氣散臨卧進改定"
+    },
+    {
+      "frame": 47,
+      "unit_id": "047r01",
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "initial_column": "設行年條可考於書籍而書籍年久閪沒入於官祿今無",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1964,
+        402,
+        77,
+        1263
+      ],
+      "sealed_column": "設行年條可考於書籤而書籍年前年沒入於宮廳今無"
+    },
+    {
+      "frame": 47,
+      "unit_id": "047r02",
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "initial_column": "憑考雖如此是藥房設始後設行也址基本無另設處",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1878,
+        402,
+        77,
+        1263
+      ],
+      "sealed_column": "憑考然如是藥房設始後設行也址基亦無另設處"
+    },
+    {
+      "frame": 47,
+      "unit_id": "047l02",
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "initial_column": "普自西闕入來待同入直入侍以傳語",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        805,
+        415,
+        77,
+        1030
+      ],
+      "sealed_column": "普自四闕入直來待同入直入待以傳語"
+    },
+    {
+      "frame": 47,
+      "unit_id": "047l08",
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "initial_column": "診脉候沈滑微有滯祟故仍以保和湯繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        328,
+        403,
+        76,
+        1090
+      ],
+      "sealed_column": "診脈候沉滑微有滯祟故仍以保和湯繼進"
+    },
+    {
+      "frame": 48,
+      "unit_id": "048r05",
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "initial_column": "皇后陛下養胃湯繼進下午七点因電話待令則夕",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1612,
+        344,
+        77,
+        1269
+      ],
+      "sealed_column": "皇后陛下養胃湯繼進下午七點因電話待令則今"
+    },
+    {
+      "frame": 48,
+      "unit_id": "048r08",
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "initial_column": "十一日癸巳陽十二月四日晴上午九点五十分入診脉候調勻微有寒",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1388,
+        342,
+        77,
+        1321
+      ],
+      "sealed_column": "十一日癸巳陽十二月四日晴上午九點五十分入診脈候調勻微有滯"
+    },
+    {
+      "frame": 48,
+      "unit_id": "048r09",
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "initial_column": "候空心水刺後溫平散進臨卧香葛正氣散進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1309,
+        400,
+        77,
+        1089
+      ],
+      "sealed_column": "候故水剌後溫平散進臨卧香葛正氣散進"
+    },
+    {
+      "frame": 48,
+      "unit_id": "048r10",
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "initial_column": "□□入直徐丙孝醫員金東錫自大内有電話",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1221,
+        352,
+        76,
+        1089
+      ],
+      "sealed_column": "□入直徐丙孝醫員金東錫因大內有電話"
+    },
+    {
+      "frame": 48,
+      "unit_id": "048l01",
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "initial_column": "十二日甲午陽十二月五日入直仍醫員李康老上午九点三十分入診諸節",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        893,
+        359,
+        77,
+        1304
+      ],
+      "sealed_column": "十二日甲午陽十二月五日入直仍醫員李康老上午九點二十分入診諸節"
+    },
+    {
+      "frame": 48,
+      "unit_id": "048l06",
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "initial_column": "太皇帝陛下",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        489,
+        360,
+        77,
+        372
+      ],
+      "sealed_column": "大皇帝陛下"
+    },
+    {
+      "frame": 48,
+      "unit_id": "048l09",
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "initial_column": "十四日丙申陽十二月七日晴上午八点五十八分入診湯劑繼進而梔子",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        240,
+        359,
+        77,
+        1304
+      ],
+      "sealed_column": "十四日丙申陽十二月七日晴上午八點五十分入診湯劑繼進而橘子"
+    },
+    {
+      "frame": 49,
+      "unit_id": "049r02",
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "initial_column": "香葛正氣散去蘇葉臨卧進數日寸脉數",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1853,
+        399,
+        77,
+        1089
+      ],
+      "sealed_column": "香葛正氣散去蘇葉臨卧進數日寸便欲發"
+    },
+    {
+      "frame": 49,
+      "unit_id": "049r03",
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "initial_column": "見故水刺後以溫平散改定而減乾薑重數",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1771,
+        421,
+        77,
+        1089
+      ],
+      "sealed_column": "見故水剌後以溫平散改定而減乾薑重製"
+    },
+    {
+      "frame": 49,
+      "unit_id": "049r07",
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "initial_column": "臨卧湯劑更察晚後諸節煎進之意仰達",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1450,
+        422,
+        77,
+        1030
+      ],
+      "sealed_column": "臨卧湯劑更察晩後諸節煎進之意仰達"
+    },
+    {
+      "frame": 49,
+      "unit_id": "049l01",
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "initial_column": "十分入診諸節泰平湯劑繼進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        899,
+        370,
+        77,
+        850
+      ],
+      "sealed_column": "十五分入診諸節泰平湯劑繼進"
+    },
+    {
+      "frame": 49,
+      "unit_id": "049l08",
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "initial_column": "十九日辛丑陽十二月十二日晴入直洪在鶴醫員金東錫上午",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        321,
+        361,
+        77,
+        1302
+      ],
+      "sealed_column": "十九日辛丑陽十二月十二日晴入直洪在暉醫員金東錫上午"
+    },
+    {
+      "frame": 49,
+      "unit_id": "049l09",
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "initial_column": "九点入診湯劑繼進梔子末不以清調合封進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        240,
+        411,
+        77,
+        1149
+      ],
+      "sealed_column": "九點入診湯劑繼進橘子末不以清調合封進"
+    },
+    {
+      "frame": 50,
+      "unit_id": "050r07",
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "initial_column": "藥房年例進上之最大者十月以後每日駝粥冬至臘",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1458,
+        406,
+        76,
+        1256
+      ],
+      "sealed_column": "藥房年例進上之最大務十月以後每日駱粥冬至煎"
+    },
+    {
+      "frame": 50,
+      "unit_id": "050r08",
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "initial_column": "藥臘月各種丸劑之製備等三件事而初以駝粥移",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1376,
+        412,
+        77,
+        1250
+      ],
+      "sealed_column": "藥臘月各種丸劑之製備等三件事而初以駱粥移"
+    },
+    {
+      "frame": 50,
+      "unit_id": "050l02",
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "initial_column": "二十三日乙巳陽十二月十六日晴上午九点入診湯劑繼進梔子末停止",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        805,
+        358,
+        76,
+        1304
+      ],
+      "sealed_column": "二十三日乙巳陽十二月十六日晴上午九點入診湯劑繼進橘子末停止"
+    },
+    {
+      "frame": 50,
+      "unit_id": "050l03",
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "initial_column": "入直金濬培金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        722,
+        425,
+        76,
+        550
+      ],
+      "sealed_column": "入直金瀅培金東錫"
+    },
+    {
+      "frame": 50,
+      "unit_id": "050l04",
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "initial_column": "二十四日丙午陽十二月十七日入直仍醫員金東錫上午十時十分",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        636,
+        367,
+        77,
+        1295
+      ],
+      "sealed_column": "二十四日丙午陽十二月十七日陰而微晴入直仍醫員金東錫上午十時十分"
+    },
+    {
+      "frame": 50,
+      "unit_id": "050l10",
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "initial_column": "二十六日戊申陽十二月十九日入直仍上午九点四十分入診脉候調均而湯",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        153,
+        371,
+        77,
+        1291
+      ],
+      "sealed_column": "二十六日戊申陽十二月十九日入直仍上午九點四十分入診脈候調均湯"
+    },
+    {
+      "frame": 51,
+      "unit_id": "051r08",
+      "image_sha256": "eb7ac69398b8129c50fdd675b34d80ca3926c7f2b04ffdccdb6fd659bd2f953a",
+      "initial_column": "入直洪在鶴醫員金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1383,
+        407,
+        77,
+        670
+      ],
+      "sealed_column": "入直洪在暉醫員金東錫"
+    },
+    {
+      "frame": 51,
+      "unit_id": "051l01",
+      "image_sha256": "eb7ac69398b8129c50fdd675b34d80ca3926c7f2b04ffdccdb6fd659bd2f953a",
+      "initial_column": "初二日癸丑陽十二月二十四日上午九点五十分洪在鶴入診脉候調均",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        895,
+        401,
+        77,
+        1260
+      ],
+      "sealed_column": "初二日癸丑陽十二月二十四日上午九點五十分洪在暉入診脈候調均"
+    },
+    {
+      "frame": 51,
+      "unit_id": "051l05",
+      "image_sha256": "eb7ac69398b8129c50fdd675b34d80ca3926c7f2b04ffdccdb6fd659bd2f953a",
+      "initial_column": "均湯劑繼進是日皇貴妃誕日故一般□□待遇",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        550,
+        448,
+        77,
+        1213
+      ],
+      "sealed_column": "均湯劑繼進是日皇貴妃誕日故一般□□稱過于咸寧殿"
+    },
+    {
+      "frame": 52,
+      "unit_id": "052r06",
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "initial_column": "一貼之意仰稟空心湯劑以加味欵草湯方改",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1538,
+        516,
+        76,
+        1146
+      ],
+      "sealed_column": "一貼之意仰稟空心湯劑以加味敗毒湯方改"
+    },
+    {
+      "frame": 52,
+      "unit_id": "052r10",
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "initial_column": "散加吉更二錢只殼一錢薄荷五分臨卧時煎進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1212,
+        531,
+        76,
+        1131
+      ],
+      "sealed_column": "散加吉更一錢枳殼一錢薄荷五分臨卧時煎進"
+    },
+    {
+      "frame": 52,
+      "unit_id": "052l02",
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "initial_column": "九日庚申陽三十一日入直仍上午十点三十分入診脉候調均之微暴感",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        823,
+        374,
+        77,
+        1288
+      ],
+      "sealed_column": "九日庚申陽十一月二十一日入直仍上午十點三十分入診脈候調均之微感"
+    },
+    {
+      "frame": 52,
+      "unit_id": "052l05",
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "initial_column": "親勅奏任官行正朝祝賀于仁政殿",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        577,
+        423,
+        76,
+        969
+      ],
+      "sealed_column": "親勅奏任官行正朝祝賀故于仁政殿"
+    },
+    {
+      "frame": 52,
+      "unit_id": "052l06",
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "initial_column": "入直洪在鶴醫員金東錫",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        503,
+        421,
+        76,
+        670
+      ],
+      "sealed_column": "入直洪在暉醫員金東錫"
+    },
+    {
+      "frame": 52,
+      "unit_id": "052l09",
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "initial_column": "太皇帝陛下皇后陛下新歲問安德壽宮",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        255,
+        356,
+        76,
+        1028
+      ],
+      "sealed_column": "大皇帝陛下皇后陛下新歲問安德壽宮"
+    },
+    {
+      "frame": 52,
+      "unit_id": "052l10",
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "initial_column": "動駕真殿展拜下午四時還宮侍衛官洪在鶴",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        161,
+        391,
+        77,
+        1148
+      ],
+      "sealed_column": "動駕真殿展拜下午四時還宮侍衛官洪在暉"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053r01",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "十二日癸亥陽一月三日上午九点五十分洪在鶴入診略有",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1962,
+        363,
+        77,
+        1301
+      ],
+      "sealed_column": "十二日癸亥陽一月三日上午九點五十分洪在暉入診略有"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053r06",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "十三日甲子陽一月四日入直仍上午九点三十分入診脉調均湯劑繼",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1542,
+        368,
+        77,
+        1296
+      ],
+      "sealed_column": "十三日甲子陽一月四日入直仍上午九點二十分入診脈調均湯劑繼"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053r08",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "皇后陛下山蔘壹本進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        1373,
+        370,
+        77,
+        611
+      ],
+      "sealed_column": "皇后陛下山芋壹本進"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l01",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "皇后陛下山蔘一本進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        886,
+        370,
+        77,
+        611
+      ],
+      "sealed_column": "皇后陛下山參一本進"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l02",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "十五日丙寅陽一月六日上午八点入診脉候調均湯劑繼",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        806,
+        382,
+        76,
+        1282
+      ],
+      "sealed_column": "十五日丙寅陽一月六日上午八點入診脈候調湯劑繼"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l04",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "皇后陛下山蔘一本進",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        645,
+        367,
+        76,
+        610
+      ],
+      "sealed_column": "皇后陛下山參一本進"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l06",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "日上午六点四十分以巡行次",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        479,
+        348,
+        77,
+        910
+      ],
+      "sealed_column": "朝上進上午六點四十分以巡行次"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l07",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "大皇帝陛下動駕于□德壽宮問安從南大",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        392,
+        370,
+        77,
+        1090
+      ],
+      "sealed_column": "大皇帝陛下動駕于□德壽宮問安從南大"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l08",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "門停車塲直向大邱典醫洪哲普製藥師徐",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        320,
+        421,
+        76,
+        1089
+      ],
+      "sealed_column": "門停車場直向大邱典醫洪哲普藥劑師徐"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l09",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "廷鍚隨駕後從大邱行在所入御經宿",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        235,
+        416,
+        77,
+        969
+      ],
+      "sealed_column": "廷鎬隨駕侍從大邱行在所入御經宿"
+    },
+    {
+      "frame": 53,
+      "unit_id": "053l10",
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "initial_column": "十七日戊辰陽一月八日上午九点十分自大邱御車行釜山",
+      "reason": "字形、分行或日次待決，保留原錄及另外已確定的局部增改。",
+      "bbox_approx_xywh_px": [
+        155,
+        361,
+        76,
+        1303
+      ],
+      "sealed_column": "十七日戊辰陽一月八日上午九點十分自大邱御車於釜山"
+    }
+  ],
+  "ancillary": [
+    {
+      "frame": 1,
+      "unit_id": "001c04",
+      "image_sha256": "1d5039888d00c6cbe772989ab8a8573429468585b643e4855e76cff984e18e99",
+      "image_evidence": "白色館標右底角有獨立圓貼，紅印上為韓字 검，下為 2005。框外現代館貼，與封面題記不同層。",
+      "bbox_approx_xywh_px": [
+        800,
+        1605,
+        70,
+        58
+      ],
+      "initial_annotation": null,
+      "proposed_annotation": "검 2005",
+      "decision": "add"
+    },
+    {
+      "frame": 3,
+      "unit_id": "003r02",
+      "image_sha256": "da446afc6f6b6d41147e648c7c90ec306d1044e992835f90d1337c2f5581ce4e",
+      "image_evidence": "小字在員紗候選窄列左邊，逐字可見木旁、宀示形宗和木旁亘形桓。",
+      "bbox_approx_xywh_px": [
+        1821,
+        453,
+        62,
+        215
+      ],
+      "initial_annotation": null,
+      "proposed_annotation": "朴宗桓",
+      "decision": "add"
+    },
+    {
+      "frame": 8,
+      "unit_id": "008r05",
+      "image_sha256": "6eea0cd64062e9933e90af6112036671ed91ef4e761b09199b6a72c514461c96",
+      "image_evidence": "初一日後右側小列是乙卯晴、三角形及陽，左鄰小列是六廿九日。眉端正墨六月另列。",
+      "bbox_approx_xywh_px": [
+        1576,
+        534,
+        104,
+        253
+      ],
+      "initial_annotation": "初一旁 乙卯晴、△陽六廿九日〔次序待核〕",
+      "proposed_annotation": "乙卯晴△陽／六廿九日",
+      "decision": "revise_existing"
+    },
+    {
+      "frame": 13,
+      "unit_id": "013l05",
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "image_evidence": "正文分小筆兩段「七月十」與旁排列「日午前」，進字恢復主欄大小。",
+      "bbox_approx_xywh_px": [
+        557,
+        684,
+        102,
+        302
+      ],
+      "initial_annotation": "七月十□日午前進",
+      "proposed_annotation": "七月十日午前",
+      "decision": "revise_existing"
+    },
+    {
+      "frame": 13,
+      "unit_id": "013l06",
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "image_evidence": "韓字與數字下續記日三服。三服下左側另有較短小列水刺後進。",
+      "bbox_approx_xywh_px": [
+        461,
+        911,
+        59,
+        216
+      ],
+      "initial_annotation": "水刺後進",
+      "proposed_annotation": "水刺後進",
+      "decision": "confirmed_existing"
+    },
+    {
+      "frame": 14,
+      "unit_id": "014l07",
+      "image_sha256": "d34ccadbcbeaa8fa34643481b264ed1870688202ece012d94759dee0710aa31f",
+      "image_evidence": "雨注位於左葉紅格以上，三組由右向左，滂的正向筆另接最左沱。",
+      "bbox_approx_xywh_px": [
+        226,
+        135,
+        187,
+        257
+      ],
+      "initial_annotation": "自下午一点至／達夜大雨滂／沱",
+      "proposed_annotation": "自下午一点至／達夜大雨滂／沱",
+      "decision": "confirmed_existing"
+    },
+    {
+      "frame": 17,
+      "unit_id": "017l08",
+      "image_sha256": "2fb74d4d29a0ddc57d49c7b66bbbf95d1ad6b539ad6347c16b72cec3b554f616",
+      "image_evidence": "左眉正向字由右向左，末端小李有筆畫疊到界欄。",
+      "bbox_approx_xywh_px": [
+        185,
+        256,
+        234,
+        157
+      ],
+      "initial_annotation": "通宵／大雨／入直李／海昌李／康年",
+      "proposed_annotation": "通宵／大雨／入直李／海昌李／康年",
+      "decision": "confirmed_existing"
+    },
+    {
+      "frame": 21,
+      "unit_id": "021r09",
+      "image_sha256": "d8a64e1daf0715be2dd7150ae2b37ad5eaf67c2720cc3f74b3a0f9599cceebb1",
+      "image_evidence": "中列「月」之下有兩豎並接一橫的廿形，四字以下跨入左短列，讀廿四日。",
+      "bbox_approx_xywh_px": [
+        1153,
+        138,
+        210,
+        231
+      ],
+      "initial_annotation": "開國紀元節／以陽八月十四／日改定",
+      "proposed_annotation": "開國紀元節／以陽八月廿四／日改定",
+      "decision": "revise_existing"
+    },
+    {
+      "frame": 23,
+      "unit_id": "023l02",
+      "image_sha256": "479801ca6b4de98e2ba407ce80be7e486b1fff1d6e6242b163d288ec95161a1f",
+      "image_evidence": "左葉眉五窄列，與右葉正背方向不同。保存原注所列兩種曆法。",
+      "bbox_approx_xywh_px": [
+        648,
+        132,
+        240,
+        241
+      ],
+      "initial_annotation": "舊曆今日卽／太皇帝陛下誕辰／而以陽曆改定九月／八日卽陰曆八月十／三日也",
+      "proposed_annotation": "舊曆今日卽／太皇帝陛下誕辰／而以陽曆改定九月／八日卽陰曆八月十／三日也",
+      "decision": "confirmed_existing"
+    },
+    {
+      "frame": 25,
+      "unit_id": "025r01",
+      "image_sha256": "f425bb2dba1e71744b10b49f24073959ec0268fb89f9f94a5fcb560861dbacb4",
+      "image_evidence": "右外眉有縱向黑筆五字，第 026 幅同一物理層的反透可見。",
+      "bbox_approx_xywh_px": [
+        1910,
+        117,
+        94,
+        217
+      ],
+      "initial_annotation": "卽位紀元日",
+      "proposed_annotation": "卽位紀元日",
+      "decision": "confirmed_existing"
+    },
+    {
+      "frame": 26,
+      "unit_id": "026l09",
+      "image_sha256": "f38a19868a78ce31b26e395e7d398e65971522af60a59f28a6005213fea5d38d",
+      "image_evidence": "初六日前左葉眉端另列黑墨五字，字向正立。右側下一幅的影為灰色反向。",
+      "bbox_approx_xywh_px": [
+        288,
+        148,
+        85,
+        230
+      ],
+      "initial_annotation": null,
+      "proposed_annotation": "陽九月一日",
+      "decision": "add"
+    },
+    {
+      "frame": 26,
+      "unit_id": "026r08",
+      "image_sha256": "f38a19868a78ce31b26e395e7d398e65971522af60a59f28a6005213fea5d38d",
+      "image_evidence": "初五後的小陽曆字筆形見卅與一日，保留原稿省略的月分。上下頁的正向日期供校勘，年月未補入。",
+      "bbox_approx_xywh_px": [
+        1359,
+        525,
+        97,
+        299
+      ],
+      "initial_annotation": "戊午陽卅一日",
+      "proposed_annotation": "戊午陽卅一日",
+      "decision": "confirmed_existing"
+    },
+    {
+      "frame": 27,
+      "unit_id": "027l10",
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "image_evidence": "左葉眉單字上下俱空，有伸展的走之和長捺，與右眉鏡影不同。",
+      "bbox_approx_xywh_px": [
+        219,
+        280,
+        108,
+        80
+      ],
+      "initial_annotation": null,
+      "proposed_annotation": "進",
+      "decision": "add"
+    },
+    {
+      "unit_id": "028-note-r05",
+      "frame": 28,
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "kind": "annotation-add",
+      "column_refs": [
+        "028r05"
+      ],
+      "initial_record": null,
+      "proposed_record": "R05「湯」右側另有小寫「加」；初稿正欄已有此字，保留讀序。",
+      "reading_status": "confirmed-placement",
+      "image_evidence": "細小加形貼湯字右下，與下接乾薑正欄不同尺寸；本筆只提供圖面位置。",
+      "bbox_approx_xywh_px": [
+        1641,
+        453,
+        56,
+        104
+      ]
+    },
+    {
+      "unit_id": "029-note-l05",
+      "frame": 29,
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "kind": "annotation-update",
+      "column_refs": [
+        "029l05"
+      ],
+      "initial_record": "L05 下側三小列自十八日至二／十日三次〔二、十原分行〕",
+      "proposed_record": "L05 下側小列「自十六日至二／十日三次」；二、十分行。",
+      "reading_status": "proposed",
+      "image_evidence": "右小列自十之下呈六的斜筆，下接日及至二；左小列由十日接三次。",
+      "bbox_approx_xywh_px": [
+        542,
+        1364,
+        115,
+        241
+      ]
+    },
+    {
+      "unit_id": "034-note-r01",
+      "frame": 34,
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "kind": "annotation-add",
+      "column_refs": [
+        "034r01"
+      ],
+      "initial_record": null,
+      "proposed_record": "R01「前方」以下八味順氣／散另見緊接窄列；初稿連讀保留。",
+      "reading_status": "confirmed-placement",
+      "image_evidence": "右線內「八味順氣」直寫較細，散在左側、與原正文墨相連，以附記保存版面。",
+      "bbox_approx_xywh_px": [
+        1920,
+        1362,
+        99,
+        247
+      ]
+    },
+    {
+      "unit_id": "034-note-r03",
+      "frame": 34,
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "kind": "annotation-update",
+      "column_refs": [
+        "034r03"
+      ],
+      "initial_record": "R03 日次側丁亥改寫樣〔待核〕",
+      "proposed_record": "R03 日次舊筆可見「丙戌」，右側小加筆近「丁亥」；兩層讀法暫並存。",
+      "reading_status": "uncertain",
+      "image_evidence": "放大可見兩列深墨略交疊，丁字上橫及亥字收筆在主日期右邊；未依干支序列補定。",
+      "bbox_approx_xywh_px": [
+        1743,
+        492,
+        139,
+        231
+      ]
+    },
+    {
+      "unit_id": "037-note-r07",
+      "frame": 37,
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "kind": "annotation-add",
+      "column_refs": [
+        "037r07"
+      ],
+      "initial_record": null,
+      "proposed_record": "R07 日期旁「十六日晴」，字細，與下段通欄字分置。",
+      "reading_status": "confirmed-placement",
+      "image_evidence": "年月旁較細的日次與晴字連寫於左，兩豎及日框可循。",
+      "bbox_approx_xywh_px": [
+        1431,
+        507,
+        68,
+        186
+      ]
+    },
+    {
+      "unit_id": "039-note-l07",
+      "frame": 39,
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "kind": "annotation-add",
+      "column_refs": [
+        "039l07"
+      ],
+      "initial_record": null,
+      "proposed_record": "L07 日次側小字「微雨」。初稿連讀已收，不增正文文字。",
+      "reading_status": "confirmed-placement",
+      "image_evidence": "該小列與大字日次分寫，兩字位於甲寅左旁；筆墨深於背透。",
+      "bbox_approx_xywh_px": [
+        388,
+        472,
+        65,
+        111
+      ]
+    },
+    {
+      "unit_id": "043-note-r08",
+      "frame": 43,
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "kind": "annotation-add",
+      "column_refs": [
+        "043r08"
+      ],
+      "initial_record": null,
+      "proposed_record": "R08 日次側小列「朝晴」。正文連讀已記晴。",
+      "reading_status": "confirmed-placement",
+      "image_evidence": "日期左側黑墨立日旁，字本身較小，與右邊背透分離。",
+      "bbox_approx_xywh_px": [
+        1373,
+        515,
+        71,
+        158
+      ]
+    },
+    {
+      "unit_id": "047-note-r08",
+      "frame": 47,
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "kind": "annotation-update",
+      "column_refs": [
+        "047r08"
+      ],
+      "initial_record": "R08 下方小欄「因諸員之有實／病故不暇替直」〔字序待核〕",
+      "proposed_record": "R08 下方兩小欄「因諸員之有實／病祟故不暇替直」；小欄與正文編排待核。",
+      "reading_status": "uncertain",
+      "image_evidence": "左小列病字以下另有一個上出下示形的祟，之後始接故；是否納入正文讀序仍留待核。",
+      "bbox_approx_xywh_px": [
+        1377,
+        946,
+        125,
+        377
+      ]
+    },
+    {
+      "unit_id": "041-h06",
+      "frame": 41,
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "kind": "hangul",
+      "column_refs": [
+        "041l04"
+      ],
+      "initial_record": "홈이",
+      "proposed_record": "홈에",
+      "reading_status": "uncertain",
+      "image_evidence": "欄首第二音節左見環形，右部似有複合元音附短筆，候讀에；首音節未解。",
+      "bbox_approx_xywh_px": [
+        653,
+        426,
+        67,
+        134
+      ]
+    },
+    {
+      "unit_id": "041-h07",
+      "frame": 41,
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "kind": "hangul",
+      "column_refs": [
+        "041l04"
+      ],
+      "initial_record": "이압기",
+      "proposed_record": "이옵기",
+      "reading_status": "uncertain",
+      "image_evidence": "方便下三音節中間似圓起筆與橫向元音，底收閉框，近옵；保留疑讀。",
+      "bbox_approx_xywh_px": [
+        634,
+        690,
+        104,
+        235
+      ]
+    },
+    {
+      "unit_id": "054-h01",
+      "frame": 54,
+      "image_sha256": "fe974982d7a0828ee893e6dfaf8fa7db8d68e2ed1faa47c87308b75e0f679f21",
+      "kind": "hangul",
+      "column_refs": [],
+      "initial_record": "□□계나□□",
+      "proposed_record": "□가계나소이",
+      "reading_status": "uncertain",
+      "image_evidence": "第二音節可見ㄱ及右豎旁短筆。末兩音節在나下連寫，筆形近소이，與左列互證；首音節仍不定。",
+      "bbox_approx_xywh_px": [
+        208,
+        96,
+        93,
+        363
+      ]
+    },
+    {
+      "unit_id": "054-h02",
+      "frame": 54,
+      "image_sha256": "fe974982d7a0828ee893e6dfaf8fa7db8d68e2ed1faa47c87308b75e0f679f21",
+      "kind": "hangul",
+      "column_refs": [],
+      "initial_record": "□□□이나□□",
+      "proposed_record": "□□□이나소이",
+      "reading_status": "uncertain",
+      "image_evidence": "나下連寫兩單位可見，首一單位有向下斜腳及短橫，末一單位有圓曲連長豎，與右列同形，候讀소이。",
+      "bbox_approx_xywh_px": [
+        129,
+        96,
+        84,
+        328
+      ]
+    }
+  ],
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "1d5039888d00c6cbe772989ab8a8573429468585b643e4855e76cff984e18e99"
+    },
+    {
+      "frame": 2,
+      "image_sha256": "8db8279b4d9d7a70d3d1c156678ea20cef1f9d84518cb492d61795261af7261a"
+    },
+    {
+      "frame": 3,
+      "image_sha256": "da446afc6f6b6d41147e648c7c90ec306d1044e992835f90d1337c2f5581ce4e"
+    },
+    {
+      "frame": 4,
+      "image_sha256": "c88874ddc627225e533c997294ef8b92b8c79d17d63e3e3dd330f8efa35e5e26"
+    },
+    {
+      "frame": 5,
+      "image_sha256": "437298fc445c507bf819a955006d1db67256ab81b3f0c037b8d38c8e35880e44"
+    },
+    {
+      "frame": 6,
+      "image_sha256": "170350e674a1f9b1088514dd073e5900617d36a747808d939d1f9a7908e6bef7"
+    },
+    {
+      "frame": 7,
+      "image_sha256": "f8a4cc69674178205783599a06831d56d0c65c83bb1405f1ed4d77065a89368a"
+    },
+    {
+      "frame": 8,
+      "image_sha256": "6eea0cd64062e9933e90af6112036671ed91ef4e761b09199b6a72c514461c96"
+    },
+    {
+      "frame": 9,
+      "image_sha256": "1020ae1eb8d54835ff91b571413ac3560d3bffc1d90854ab8c65316977eec0de"
+    },
+    {
+      "frame": 10,
+      "image_sha256": "dbcf59a63c37db209189bae876f80992f021024295783064fa03b0a0c38e1319"
+    },
+    {
+      "frame": 11,
+      "image_sha256": "4ece80895b3312a077a01ada1e4b298b24031e5b6cd23b158ebf3db58fec7523"
+    },
+    {
+      "frame": 12,
+      "image_sha256": "73995b7ea156ef1d8f3908411dd01dad1677f24fc59e631f84d0e3addeb48bf5"
+    },
+    {
+      "frame": 13,
+      "image_sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45"
+    },
+    {
+      "frame": 14,
+      "image_sha256": "d34ccadbcbeaa8fa34643481b264ed1870688202ece012d94759dee0710aa31f"
+    },
+    {
+      "frame": 15,
+      "image_sha256": "1c1fe9851015cd1efd95f6a8d56acc25a3734e0bd90e6a82a31f44608c756a1e"
+    },
+    {
+      "frame": 16,
+      "image_sha256": "0c222af0bf9bc390819f4a2a0c4583a2aec286156d4bb2b72986b9a6178c177f"
+    },
+    {
+      "frame": 17,
+      "image_sha256": "2fb74d4d29a0ddc57d49c7b66bbbf95d1ad6b539ad6347c16b72cec3b554f616"
+    },
+    {
+      "frame": 18,
+      "image_sha256": "618e9513712137df4303fc33260189e275e9b859c8de89e0c6cb9aec8f282191"
+    },
+    {
+      "frame": 19,
+      "image_sha256": "7f782de618dfa251e06dbae1196370fb713d1bb627ff90a945d9d28abc8c68ca"
+    },
+    {
+      "frame": 20,
+      "image_sha256": "289b7b34506623a55da7307e39d37dc5f609c7798eb9f5faf8434ae9073bb1ff"
+    },
+    {
+      "frame": 21,
+      "image_sha256": "d8a64e1daf0715be2dd7150ae2b37ad5eaf67c2720cc3f74b3a0f9599cceebb1"
+    },
+    {
+      "frame": 22,
+      "image_sha256": "5c4780e2be20b83530f04017cb0dccd6006859eaf21126faa4a3f0a457baf912"
+    },
+    {
+      "frame": 23,
+      "image_sha256": "479801ca6b4de98e2ba407ce80be7e486b1fff1d6e6242b163d288ec95161a1f"
+    },
+    {
+      "frame": 24,
+      "image_sha256": "d34fe40754fbc0f3d8bea9f12eed0177252443f3c08a8e7ab169dbcd93db1349"
+    },
+    {
+      "frame": 25,
+      "image_sha256": "f425bb2dba1e71744b10b49f24073959ec0268fb89f9f94a5fcb560861dbacb4"
+    },
+    {
+      "frame": 26,
+      "image_sha256": "f38a19868a78ce31b26e395e7d398e65971522af60a59f28a6005213fea5d38d"
+    },
+    {
+      "frame": 27,
+      "image_sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc"
+    },
+    {
+      "frame": 28,
+      "image_sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b"
+    },
+    {
+      "frame": 29,
+      "image_sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b"
+    },
+    {
+      "frame": 30,
+      "image_sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32"
+    },
+    {
+      "frame": 31,
+      "image_sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927"
+    },
+    {
+      "frame": 32,
+      "image_sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3"
+    },
+    {
+      "frame": 33,
+      "image_sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15"
+    },
+    {
+      "frame": 34,
+      "image_sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103"
+    },
+    {
+      "frame": 35,
+      "image_sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43"
+    },
+    {
+      "frame": 36,
+      "image_sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca"
+    },
+    {
+      "frame": 37,
+      "image_sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb"
+    },
+    {
+      "frame": 38,
+      "image_sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152"
+    },
+    {
+      "frame": 39,
+      "image_sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db"
+    },
+    {
+      "frame": 40,
+      "image_sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c"
+    },
+    {
+      "frame": 41,
+      "image_sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c"
+    },
+    {
+      "frame": 42,
+      "image_sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c"
+    },
+    {
+      "frame": 43,
+      "image_sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094"
+    },
+    {
+      "frame": 44,
+      "image_sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663"
+    },
+    {
+      "frame": 45,
+      "image_sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3"
+    },
+    {
+      "frame": 46,
+      "image_sha256": "7b0044564db5fff69c56da03b59bae1414ee6bbd2e65a3b33315e6396e7edb48"
+    },
+    {
+      "frame": 47,
+      "image_sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4"
+    },
+    {
+      "frame": 48,
+      "image_sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9"
+    },
+    {
+      "frame": 49,
+      "image_sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244"
+    },
+    {
+      "frame": 50,
+      "image_sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d"
+    },
+    {
+      "frame": 51,
+      "image_sha256": "eb7ac69398b8129c50fdd675b34d80ca3926c7f2b04ffdccdb6fd659bd2f953a"
+    },
+    {
+      "frame": 52,
+      "image_sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142"
+    },
+    {
+      "frame": 53,
+      "image_sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79"
+    },
+    {
+      "frame": 54,
+      "image_sha256": "fe974982d7a0828ee893e6dfaf8fa7db8d68e2ed1faa47c87308b75e0f679f21"
+    },
+    {
+      "frame": 55,
+      "image_sha256": "da8962d21769de16487a57937f110ec046701455e98571333205fb567f311660"
+    }
+  ]
+}
