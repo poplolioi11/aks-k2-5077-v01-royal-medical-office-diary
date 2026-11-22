@@ -1,0 +1,559 @@
+{
+  "source": "https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-5077",
+  "image_viewer": "https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-5077%7C001",
+  "source_rights": "https://jsg.aks.ac.kr/etc/guide",
+  "shelfmark": "韓國學中央研究院藏書閣 K2-5077 冊001",
+  "data_version": "0.1.0",
+  "image_inventory": [
+    {
+      "image": 1,
+      "label": "001",
+      "id": "20180302112853509",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302112853509.xml",
+      "sha256": "1d5039888d00c6cbe772989ab8a8573429468585b643e4855e76cff984e18e99",
+      "scan_width": 2158,
+      "scan_height": 1896,
+      "reading_unit_count": 4
+    },
+    {
+      "image": 2,
+      "label": "002",
+      "id": "20180302112906550",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302112906550.xml",
+      "sha256": "8db8279b4d9d7a70d3d1c156678ea20cef1f9d84518cb492d61795261af7261a",
+      "scan_width": 2150,
+      "scan_height": 1901,
+      "reading_unit_count": 10
+    },
+    {
+      "image": 3,
+      "label": "003",
+      "id": "20180302112921105",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302112921105.xml",
+      "sha256": "da446afc6f6b6d41147e648c7c90ec306d1044e992835f90d1337c2f5581ce4e",
+      "scan_width": 2148,
+      "scan_height": 1895,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 4,
+      "label": "004",
+      "id": "20180302112931619",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302112931619.xml",
+      "sha256": "c88874ddc627225e533c997294ef8b92b8c79d17d63e3e3dd330f8efa35e5e26",
+      "scan_width": 2145,
+      "scan_height": 1893,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 5,
+      "label": "005",
+      "id": "20180302112941307",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302112941307.xml",
+      "sha256": "437298fc445c507bf819a955006d1db67256ab81b3f0c037b8d38c8e35880e44",
+      "scan_width": 2157,
+      "scan_height": 1908,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 6,
+      "label": "006",
+      "id": "20180302112951463",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302112951463.xml",
+      "sha256": "170350e674a1f9b1088514dd073e5900617d36a747808d939d1f9a7908e6bef7",
+      "scan_width": 2159,
+      "scan_height": 1908,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 7,
+      "label": "007",
+      "id": "20180302113001571",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113001571.xml",
+      "sha256": "f8a4cc69674178205783599a06831d56d0c65c83bb1405f1ed4d77065a89368a",
+      "scan_width": 2151,
+      "scan_height": 1897,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 8,
+      "label": "008",
+      "id": "20180302113011633",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113011633.xml",
+      "sha256": "6eea0cd64062e9933e90af6112036671ed91ef4e761b09199b6a72c514461c96",
+      "scan_width": 2157,
+      "scan_height": 1907,
+      "reading_unit_count": 19
+    },
+    {
+      "image": 9,
+      "label": "009",
+      "id": "20180302113021493",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113021493.xml",
+      "sha256": "1020ae1eb8d54835ff91b571413ac3560d3bffc1d90854ab8c65316977eec0de",
+      "scan_width": 2148,
+      "scan_height": 1899,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 10,
+      "label": "010",
+      "id": "20180302113031352",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113031352.xml",
+      "sha256": "dbcf59a63c37db209189bae876f80992f021024295783064fa03b0a0c38e1319",
+      "scan_width": 2178,
+      "scan_height": 1890,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 11,
+      "label": "011",
+      "id": "20180302113041367",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113041367.xml",
+      "sha256": "4ece80895b3312a077a01ada1e4b298b24031e5b6cd23b158ebf3db58fec7523",
+      "scan_width": 2174,
+      "scan_height": 1892,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 12,
+      "label": "012",
+      "id": "20180302113051304",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113051304.xml",
+      "sha256": "73995b7ea156ef1d8f3908411dd01dad1677f24fc59e631f84d0e3addeb48bf5",
+      "scan_width": 2175,
+      "scan_height": 1888,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 13,
+      "label": "013",
+      "id": "20180302113101257",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113101257.xml",
+      "sha256": "97fc320dc3b69178d833284e0ce4b82ac69c4f6e6d928a29d5a7860636414f45",
+      "scan_width": 2179,
+      "scan_height": 1885,
+      "reading_unit_count": 22
+    },
+    {
+      "image": 14,
+      "label": "014",
+      "id": "20180302113110929",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113110929.xml",
+      "sha256": "d34ccadbcbeaa8fa34643481b264ed1870688202ece012d94759dee0710aa31f",
+      "scan_width": 2178,
+      "scan_height": 1885,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 15,
+      "label": "015",
+      "id": "20180302113121163",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113121163.xml",
+      "sha256": "1c1fe9851015cd1efd95f6a8d56acc25a3734e0bd90e6a82a31f44608c756a1e",
+      "scan_width": 2178,
+      "scan_height": 1888,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 16,
+      "label": "016",
+      "id": "20180302113131006",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113131006.xml",
+      "sha256": "0c222af0bf9bc390819f4a2a0c4583a2aec286156d4bb2b72986b9a6178c177f",
+      "scan_width": 2179,
+      "scan_height": 1886,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 17,
+      "label": "017",
+      "id": "20180302113141068",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113141068.xml",
+      "sha256": "2fb74d4d29a0ddc57d49c7b66bbbf95d1ad6b539ad6347c16b72cec3b554f616",
+      "scan_width": 2187,
+      "scan_height": 1885,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 18,
+      "label": "018",
+      "id": "20180302113151037",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113151037.xml",
+      "sha256": "618e9513712137df4303fc33260189e275e9b859c8de89e0c6cb9aec8f282191",
+      "scan_width": 2190,
+      "scan_height": 1881,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 19,
+      "label": "019",
+      "id": "20180302113200849",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113200849.xml",
+      "sha256": "7f782de618dfa251e06dbae1196370fb713d1bb627ff90a945d9d28abc8c68ca",
+      "scan_width": 2189,
+      "scan_height": 1882,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 20,
+      "label": "020",
+      "id": "20180302113210615",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113210615.xml",
+      "sha256": "289b7b34506623a55da7307e39d37dc5f609c7798eb9f5faf8434ae9073bb1ff",
+      "scan_width": 2188,
+      "scan_height": 1884,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 21,
+      "label": "021",
+      "id": "20180302113220537",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113220537.xml",
+      "sha256": "d8a64e1daf0715be2dd7150ae2b37ad5eaf67c2720cc3f74b3a0f9599cceebb1",
+      "scan_width": 2192,
+      "scan_height": 1887,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 22,
+      "label": "022",
+      "id": "20180302113230365",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113230365.xml",
+      "sha256": "5c4780e2be20b83530f04017cb0dccd6006859eaf21126faa4a3f0a457baf912",
+      "scan_width": 2192,
+      "scan_height": 1887,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 23,
+      "label": "023",
+      "id": "20180302113240411",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113240411.xml",
+      "sha256": "479801ca6b4de98e2ba407ce80be7e486b1fff1d6e6242b163d288ec95161a1f",
+      "scan_width": 2191,
+      "scan_height": 1885,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 24,
+      "label": "024",
+      "id": "20180302113250395",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113250395.xml",
+      "sha256": "d34fe40754fbc0f3d8bea9f12eed0177252443f3c08a8e7ab169dbcd93db1349",
+      "scan_width": 2188,
+      "scan_height": 1886,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 25,
+      "label": "025",
+      "id": "20180302113300441",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113300441.xml",
+      "sha256": "f425bb2dba1e71744b10b49f24073959ec0268fb89f9f94a5fcb560861dbacb4",
+      "scan_width": 2188,
+      "scan_height": 1890,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 26,
+      "label": "026",
+      "id": "20180302113310737",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113310737.xml",
+      "sha256": "f38a19868a78ce31b26e395e7d398e65971522af60a59f28a6005213fea5d38d",
+      "scan_width": 2190,
+      "scan_height": 1887,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 27,
+      "label": "027",
+      "id": "20180302113320815",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113320815.xml",
+      "sha256": "3ad61c49572d2876227460eb9ea708fe4e408c4208c179ea32787326fcb0a7dc",
+      "scan_width": 2188,
+      "scan_height": 1890,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 28,
+      "label": "028",
+      "id": "20180302113331064",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113331064.xml",
+      "sha256": "38b9763994607969dce21cf743d4dc1c6251792591e719af745cc685bc182f0b",
+      "scan_width": 2191,
+      "scan_height": 1885,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 29,
+      "label": "029",
+      "id": "20180302113341376",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113341376.xml",
+      "sha256": "2d35702d0260f5b48cb4d1cda4d3d224698342c385b4343f9a04b8a65e78475b",
+      "scan_width": 2190,
+      "scan_height": 1883,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 30,
+      "label": "030",
+      "id": "20180302113351266",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113351266.xml",
+      "sha256": "26b43bcc8f6cba09a9c67bd94bb537b27850111fa8d9b0cd464880b7ac68dc32",
+      "scan_width": 2190,
+      "scan_height": 1881,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 31,
+      "label": "031",
+      "id": "20180302113400907",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113400907.xml",
+      "sha256": "98a1f950a2f79a917cf905767d88f4c698a286a5376aaa8bc96af0c96993e927",
+      "scan_width": 2187,
+      "scan_height": 1884,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 32,
+      "label": "032",
+      "id": "20180302113411031",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113411031.xml",
+      "sha256": "3b4bc0e952f6343591d94cb2681b3c310d4e4848a8e3e0aaf981c5db46ceedd3",
+      "scan_width": 2191,
+      "scan_height": 1875,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 33,
+      "label": "033",
+      "id": "20180302113421250",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113421250.xml",
+      "sha256": "1d97ddbb4de4a02170d0cd23a975535a896f33cac0f2d15ef30f00167f3e2e15",
+      "scan_width": 2190,
+      "scan_height": 1877,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 34,
+      "label": "034",
+      "id": "20180302113431421",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113431421.xml",
+      "sha256": "dcb4db4b7ba47e84a051bada893e7911833fab3d47e4166dadbae26528422103",
+      "scan_width": 2188,
+      "scan_height": 1880,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 35,
+      "label": "035",
+      "id": "20180302113441904",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113441904.xml",
+      "sha256": "2fb623ecf1118e94e6ca73c3465377bffe5202d75e03b2571d3886abea61be43",
+      "scan_width": 2192,
+      "scan_height": 1878,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 36,
+      "label": "036",
+      "id": "20180302113451872",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113451872.xml",
+      "sha256": "523feec9d30b1fe5a1baa3864316f710b54cfdd16cf789df6ed3ca2a1aa5f4ca",
+      "scan_width": 2191,
+      "scan_height": 1877,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 37,
+      "label": "037",
+      "id": "20180302113501576",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113501576.xml",
+      "sha256": "4d6f3203094f62e63044aaabb47c122304b171aae5cbc5e7c6470919c1922cdb",
+      "scan_width": 2188,
+      "scan_height": 1876,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 38,
+      "label": "038",
+      "id": "20180302113511591",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113511591.xml",
+      "sha256": "7c1bda78dab11b957ac6b3b0b755bd303ee72d168b117800d5d84fdb8538b152",
+      "scan_width": 2190,
+      "scan_height": 1878,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 39,
+      "label": "039",
+      "id": "20180302113521076",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113521076.xml",
+      "sha256": "fd46adaf3738f5952b98bf9527cb83825c70c79ded14378c21460c30c91c77db",
+      "scan_width": 2192,
+      "scan_height": 1875,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 40,
+      "label": "040",
+      "id": "20180302113531637",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113531637.xml",
+      "sha256": "127a4cb43549a56f56e79785f7dafcfc6387c89f54fdb7dabd7f895f324eb13c",
+      "scan_width": 2194,
+      "scan_height": 1873,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 41,
+      "label": "041",
+      "id": "20180302113545162",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113545162.xml",
+      "sha256": "4fcbe161828c7aac06fa51ef20c45d1952d27d19e3bfbfbdee1e6c8124ec077c",
+      "scan_width": 2195,
+      "scan_height": 1872,
+      "reading_unit_count": 32
+    },
+    {
+      "image": 42,
+      "label": "042",
+      "id": "20180302113558672",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113558672.xml",
+      "sha256": "331293536c49ea59d1127cacbe85a09e53f7778e5dd9e273a9a2c43931d8634c",
+      "scan_width": 2192,
+      "scan_height": 1870,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 43,
+      "label": "043",
+      "id": "20180302113609093",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113609093.xml",
+      "sha256": "4618673a46bd87503d9e7561dc8c55df64ee96868dc580e1b217babc0587d094",
+      "scan_width": 2185,
+      "scan_height": 1876,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 44,
+      "label": "044",
+      "id": "20180302113619373",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113619373.xml",
+      "sha256": "9a45e52e7d28f03a0152998a27d95bfee5011c537c27773f1be805b4fb910663",
+      "scan_width": 2184,
+      "scan_height": 1871,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 45,
+      "label": "045",
+      "id": "20180302113629326",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113629326.xml",
+      "sha256": "2cf62e17bba48fbd73a3a83c3f85e5ac602373b34cdec8bcba79ffceb7a583a3",
+      "scan_width": 2181,
+      "scan_height": 1879,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 46,
+      "label": "046",
+      "id": "20180302113639403",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113639403.xml",
+      "sha256": "7b0044564db5fff69c56da03b59bae1414ee6bbd2e65a3b33315e6396e7edb48",
+      "scan_width": 2182,
+      "scan_height": 1878,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 47,
+      "label": "047",
+      "id": "20180302113649216",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113649216.xml",
+      "sha256": "eee4eca883f7ed352054c28fe438e9b8c787819b9e522e2185914468b8fa37d4",
+      "scan_width": 2185,
+      "scan_height": 1878,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 48,
+      "label": "048",
+      "id": "20180302113659106",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113659106.xml",
+      "sha256": "750a1243f5fcb2f90cf0068e2f430e00edb9babb4e2e380472cc2377c3ddedb9",
+      "scan_width": 2184,
+      "scan_height": 1874,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 49,
+      "label": "049",
+      "id": "20180302113709090",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113709090.xml",
+      "sha256": "830a98809f204b36b7386d3bf3a378f2d6147167a95e72669d71aafbb4c43244",
+      "scan_width": 2183,
+      "scan_height": 1874,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 50,
+      "label": "050",
+      "id": "20180302113719277",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113719277.xml",
+      "sha256": "d52a736d713c355e54df7ba3cd221f2dcd53cc167354734b3bbf4d4c961ebc6d",
+      "scan_width": 2181,
+      "scan_height": 1871,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 51,
+      "label": "051",
+      "id": "20180302113729214",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113729214.xml",
+      "sha256": "eb7ac69398b8129c50fdd675b34d80ca3926c7f2b04ffdccdb6fd659bd2f953a",
+      "scan_width": 2180,
+      "scan_height": 1866,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 52,
+      "label": "052",
+      "id": "20180302113744175",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113744175.xml",
+      "sha256": "83578f4f6dc82741d9abd3f92096b65a8f6eb2b208fc9cd5c534e96d7da8c142",
+      "scan_width": 2182,
+      "scan_height": 1865,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 53,
+      "label": "053",
+      "id": "20180302113754205",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113754205.xml",
+      "sha256": "9349535cb27a509ff15d0a9d02bdb26f23303ef98153aead435c9d8d52cddb79",
+      "scan_width": 2183,
+      "scan_height": 1865,
+      "reading_unit_count": 20
+    },
+    {
+      "image": 54,
+      "label": "054",
+      "id": "20180302113803534",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113803534.xml",
+      "sha256": "fe974982d7a0828ee893e6dfaf8fa7db8d68e2ed1faa47c87308b75e0f679f21",
+      "scan_width": 2183,
+      "scan_height": 1867,
+      "reading_unit_count": 13
+    },
+    {
+      "image": 55,
+      "label": "055",
+      "id": "20180302113813269",
+      "descriptor": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/03/02/dzi/20180302113813269.xml",
+      "sha256": "da8962d21769de16487a57937f110ec046701455e98571333205fb567f311660",
+      "scan_width": 2600,
+      "scan_height": 3716,
+      "reading_unit_count": 0
+    }
+  ]
+}
